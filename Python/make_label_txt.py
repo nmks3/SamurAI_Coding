@@ -9,7 +9,8 @@ for i in range(10):
 	label = []
 	# 配列の添字を制御する変数
 	labelNum = 1
-	fileName = '/Users/g-2017/SamurAI_Coding/Python/label' + fileNum + '.txt'
+	side = "first"
+	fileName = '/Users/g-2017/SamurAI_Coding/traindata/' + side + '/labels/label' + fileNum + '.txt'
 	fw = open(fileName, 'w')
 
 	for k in range(1000):

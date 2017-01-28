@@ -6,7 +6,7 @@ case $1 in
     do
       echo "game$n"
 	    #manager/gameManager -d ~/SamuraiCoding/matchlog/game$n/input -l ~/SamuraiCoding/matchlog/game$n/log -t\
-      manager2/gameManager -d ~/SamuraiCoding/matchlog/game$4/game$n/input -l ~/SamuraiCoding/matchlog/game$4/game$n/log -t > ~/SamuraiCoding/matchlog/game$4/game$n/logfile\
+      manager2/gameManager -d ~/SamurAI_Coding/matchlog/game$4/game$n/input -l ~/SamurAI_Coding/matchlog/game$4/game$n/log -t > ~/SamurAI_Coding/matchlog/game$4/game$n/logfile\
       -a players/prog -p "" -u "" -n "piyo" \
       -a players/prog -p "" -u "" -n "piyo" \
       -a players/prog -p "" -u "" -n "piyo" \
@@ -28,7 +28,7 @@ case $1 in
     for n in `seq $2 $3`
     do
       echo "game$n"
-      manager2/gameManager -d ~/SamuraiCoding/matchlog/game$4/game$n/input -l ~/SamuraiCoding/matchlog/game$4/game$n/log -t > ~/SamuraiCoding/matchlog/game$4/game$n/logfile\
+      manager2/gameManager -d ~/SamurAI_Coding/matchlog/game$4/game$n/input -l ~/SamurAI_Coding/matchlog/game$4/game$n/log -t > ~/SamurAI_Coding/matchlog/game$4/game$n/logfile\
       -a players/sinryaku -p "" -u "" -n "sinryakudegeso" \
       -a players/sinryaku -p "" -u "" -n "sinryakudegeso" \
       -a players/sinryaku  -p "" -u "" -n "sinryakudegeso" \
@@ -49,10 +49,10 @@ case $1 in
     for n in `seq $2 $3`
     do
       echo "game$n"
-      manager2/gameManager -d ~/SamuraiCoding/matchlog/game$4/game$n/input -l ~/SamuraiCoding/matchlog/game$4/game$n/log -t > ~/SamuraiCoding/matchlog/game$4/game$n/logfile\
-      -a /Users/g-2017/SamuraiCoding/arukuka_mztmr_nggts/jamurai/run.sh -p "" -u "" -n "arukuka" \
-      -a /Users/g-2017/SamuraiCoding/arukuka_mztmr_nggts/jamurai/run.sh -p "" -u "" -n "arukuka" \
-      -a /Users/g-2017/SamuraiCoding/arukuka_mztmr_nggts/jamurai/run.sh -p "" -u "" -n "arukuka" \
+      manager2/gameManager -d ~/SamurAI_Coding/matchlog/game$4/game$n/input -l ~/SamurAI_Coding/matchlog/game$4/game$n/log -t > ~/SamurAI_Coding/matchlog/game$4/game$n/logfile\
+      -a ~/SamurAI_Coding/arukuka_mztmr_nggts/jamurai/run.sh -p "" -u "" -n "arukuka" \
+      -a ~/SamurAI_Coding/arukuka_mztmr_nggts/jamurai/run.sh -p "" -u "" -n "arukuka" \
+      -a ~/SamurAI_Coding/arukuka_mztmr_nggts/jamurai/run.sh -p "" -u "" -n "arukuka" \
       -a players/prog -p "" -u "" -n "piyo" \
       -a players/prog -p "" -u "" -n "piyo" \
       -a players/prog -p "" -u "" -n "piyo" 
@@ -70,13 +70,13 @@ case $1 in
     for n in `seq $2 $3`
     do
       echo "game$n"
-      manager2/gameManager -d ~/SamuraiCoding/matchlog/game$4/game$n/input -l ~/SamuraiCoding/matchlog/game$4/game$n/log -t > ~/SamuraiCoding/matchlog/game$4/game$n/logfile\
+      manager2/gameManager -d ~/SamurAI_Coding/matchlog/game$4/game$n/input -l ~/SamurAI_Coding/matchlog/game$4/game$n/log -t > ~/SamurAI_Coding/matchlog/game$4/game$n/logfile\
       -a players/prog -p "" -u "" -n "piyo" \
       -a players/prog -p "" -u "" -n "piyo" \
       -a players/prog -p "" -u "" -n "piyo" \
-      -a /Users/g-2017/SamuraiCoding/arukuka_mztmr_nggts/jamurai/run.sh -p "" -u "" -n "arukuka" \
-      -a /Users/g-2017/SamuraiCoding/arukuka_mztmr_nggts/jamurai/run.sh -p "" -u "" -n "arukuka" \
-      -a /Users/g-2017/SamuraiCoding/arukuka_mztmr_nggts/jamurai/run.sh -p "" -u "" -n "arukuka" 
+      -a ~/SamurAI_Coding/arukuka_mztmr_nggts/jamurai/run.sh -p "" -u "" -n "arukuka" \
+      -a ~/SamurAI_Coding/arukuka_mztmr_nggts/jamurai/run.sh -p "" -u "" -n "arukuka" \
+      -a ~/SamurAI_Coding/arukuka_mztmr_nggts/jamurai/run.sh -p "" -u "" -n "arukuka" 
  
       TARGET=players
       for i in {1..6}
@@ -91,23 +91,23 @@ case $1 in
     for n in `seq $2 $3`
     do
       echo "game$n"
-      manager2/gameManager -d ~/SamuraiCoding/matchlog/game$4/game$n/input -l ~/SamuraiCoding/matchlog/game$4/game$n/log -t > ~/SamuraiCoding/matchlog/game$4/game$n/logfile\
+      manager2/gameManager -d ~/SamurAI_Coding/matchlog/game$4/game$n/input -l ~/SamurAI_Coding/matchlog/game$4/game$n/log -t > ~/SamurAI_Coding/matchlog/game$4/game$n/logfile\
       -a players/sinryaku -p "" -u "" -n "sinryakudegeso" \
       -a players/sinryaku -p "" -u "" -n "sinryakudegeso" \
       -a players/sinryaku -p "" -u "" -n "sinryakudegeso" \
-      -a /Users/g-2017/SamuraiCoding/arukuka_mztmr_nggts/jamurai/run.sh -p "" -u "" -n "arukuka" \
-      -a /Users/g-2017/SamuraiCoding/arukuka_mztmr_nggts/jamurai/run.sh -p "" -u "" -n "arukuka" \
-      -a /Users/g-2017/SamuraiCoding/arukuka_mztmr_nggts/jamurai/run.sh -p "" -u "" -n "arukuka" 
+      -a ~/SamurAI_Coding/arukuka_mztmr_nggts/jamurai/run.sh -p "" -u "" -n "arukuka" \
+      -a ~/SamurAI_Coding/arukuka_mztmr_nggts/jamurai/run.sh -p "" -u "" -n "arukuka" \
+      -a ~/SamurAI_Coding/arukuka_mztmr_nggts/jamurai/run.sh -p "" -u "" -n "arukuka" 
     done
     ;;
     5)
     for n in `seq $2 $3`
     do
       echo "game$n"
-      manager2/gameManager -d ~/SamuraiCoding/matchlog/game$4/game$n/input -l ~/SamuraiCoding/matchlog/game$4/game$n/log -t > ~/SamuraiCoding/matchlog/game$4/game$n/logfile\
-      -a /Users/g-2017/SamuraiCoding/arukuka_mztmr_nggts/jamurai/run.sh -p "" -u "" -n "arukuka" \
-      -a /Users/g-2017/SamuraiCoding/arukuka_mztmr_nggts/jamurai/run.sh -p "" -u "" -n "arukuka" \
-      -a /Users/g-2017/SamuraiCoding/arukuka_mztmr_nggts/jamurai/run.sh -p "" -u "" -n "arukuka" 
+      manager2/gameManager -d ~/SamurAI_Coding/matchlog/game$4/game$n/input -l ~/SamurAI_Coding/matchlog/game$4/game$n/log -t > ~/SamurAI_Coding/matchlog/game$4/game$n/logfile\
+      -a ~/SamurAI_Coding/arukuka_mztmr_nggts/jamurai/run.sh -p "" -u "" -n "arukuka" \
+      -a ~/SamurAI_Coding/arukuka_mztmr_nggts/jamurai/run.sh -p "" -u "" -n "arukuka" \
+      -a ~/SamurAI_Coding/arukuka_mztmr_nggts/jamurai/run.sh -p "" -u "" -n "arukuka" 
       -a players/sinryaku -p "" -u "" -n "sinryakudegeso" \
       -a players/sinryaku -p "" -u "" -n "sinryakudegeso" \
       -a players/sinryaku -p "" -u "" -n "sinryakudegeso" 

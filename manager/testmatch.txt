@@ -1,15 +1,1 @@
-game9157
-Timed out @ turn 95
-game9495
-Timed out @ turn 0
-game9786
-Timed out @ turn 0
-game9796
-Timed out @ turn 0
-game9834
-Timed out @ turn 3
-game9840
-Timed out @ turn 0
-game10000
-Timed out @ turn 3
 

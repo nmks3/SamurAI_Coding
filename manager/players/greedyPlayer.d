@@ -1,0 +1,1 @@
+greedyPlayer.o: greedyPlayer.cpp

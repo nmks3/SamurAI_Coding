@@ -1,0 +1,2824 @@
+### Turn: 0; Side: 0; Samurai: 0; Actions: 5 1
+Samurai 0.0 performs action: 5
+Samurai 0.0 moves from (0,0) to (0,1)
+Samurai 0.0 performs action: 1
+Section (0,2) occupied by 0
+Section (0,3) occupied by 0
+Section (0,4) occupied by 0
+Section (0,5) occupied by 0
+
+ .  .  .  .  .  .  .  .* .  .  .  .  .  .  . 
+ .* .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ 0  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ 0  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ 0  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ 0  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .* .  .  .  .  .  .  .  .  .  .  .  .  .  .*
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .* .  .  .  .  .  .  .*
+Samurai 0.0@(0,1)
+Samurai 0.0@(0,1)
+Samurai 0.0@(0,1)
+Samurai 0.0@(0,1)
+Samurai 0.0@(0,1)
+Samurai 0.0@(0,1)
+### Turn: 1; Side: 1; Samurai: 0; Actions: 3 8
+Samurai 1.0 performs action: 3
+Section (14,13) occupied by 3
+Section (14,12) occupied by 3
+Section (14,11) occupied by 3
+Section (14,10) occupied by 3
+Samurai 1.0 performs action: 8
+Samurai 1.0 moves from (14,14) to (13,14)
+
+ .  .  .  .  .  .  .  .* .  .  .  .  .  .  . 
+ .* .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ 0  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ 0  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ 0  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ 0  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .* .  .  .  .  .  .  .  .  .  .  .  .  .  .*
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  3 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  3 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  3 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  3 
+ .  .  .  .  .  .  .  .* .  .  .  .  .  .* . 
+Samurai 1.0@(13,14)
+Samurai 1.0@(13,14)
+Samurai 1.0@(13,14)
+Samurai 1.0@(13,14)
+Samurai 1.0@(13,14)
+Samurai 1.0@(13,14)
+### Turn: 2; Side: 1; Samurai: 1; Actions: 8 3
+Samurai 1.1 performs action: 8
+Samurai 1.1 moves from (14,7) to (13,7)
+Samurai 1.1 performs action: 3
+Section (13,6) occupied by 4
+Section (13,5) occupied by 4
+Section (12,7) occupied by 4
+Section (12,6) occupied by 4
+Section (11,7) occupied by 4
+
+ .  .  .  .  .  .  .  .* .  .  .  .  .  .  . 
+ .* .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ 0  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ 0  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ 0  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ 0  .  .  .  .  .  .  .  .  .  .  .  .  4  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  4  4  . 
+ .* .  .  .  .  .  .  .  .  .  .  4  4  .* . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  3 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  3 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  3 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  3 
+ .  .  .  .  .  .  .  .* .  .  .  .  .  .* . 
+Samurai 1.1@(13,7)
+Samurai 1.1@(13,7)
+Samurai 1.1@(13,7)
+Samurai 1.1@(13,7)
+Samurai 1.1@(13,7)
+Samurai 1.1@(13,7)
+### Turn: 3; Side: 0; Samurai: 1; Actions: 6 2
+Samurai 0.1 performs action: 6
+Samurai 0.1 moves from (0,7) to (1,7)
+Samurai 0.1 performs action: 2
+Section (2,7) occupied by 1
+Section (3,7) occupied by 1
+Section (1,6) occupied by 1
+Section (2,6) occupied by 1
+Section (1,5) occupied by 1
+
+ .  .  .  .  .  .  .  .* .  .  .  .  .  .  . 
+ .* .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ 0  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ 0  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ 0  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ 0  1  .  .  .  .  .  .  .  .  .  .  .  4  . 
+ .  1  1  .  .  .  .  .  .  .  .  .  4  4  . 
+ .  .* 1  1  .  .  .  .  .  .  .  4  4  .* . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  3 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  3 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  3 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  3 
+ .  .  .  .  .  .  .  .* .  .  .  .  .  .* . 
+Samurai 0.1@(1,7)
+Samurai 0.1@(1,7)
+Samurai 0.1@(1,7)
+Samurai 0.1@(1,7)
+Samurai 0.1@(1,7)
+Samurai 0.1@(1,7)
+### Turn: 4; Side: 0; Samurai: 2; Actions: 5 1
+Samurai 0.2 performs action: 5
+Samurai 0.2 moves from (7,0) to (7,1)
+Samurai 0.2 performs action: 1
+Section (6,0) occupied by 2
+Section (6,1) occupied by 2
+Section (6,2) occupied by 2
+Section (7,2) occupied by 2
+Section (8,0) occupied by 2
+Section (8,1) occupied by 2
+Section (8,2) occupied by 2
+
+ .  .  .  .  .  .  2  .  2  .  .  .  .  .  . 
+ .* .  .  .  .  .  2  .* 2  .  .  .  .  .  . 
+ 0  .  .  .  .  .  2  2  2  .  .  .  .  .  . 
+ 0  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ 0  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ 0  1  .  .  .  .  .  .  .  .  .  .  .  4  . 
+ .  1  1  .  .  .  .  .  .  .  .  .  4  4  . 
+ .  .* 1  1  .  .  .  .  .  .  .  4  4  .* . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  3 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  3 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  3 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  3 
+ .  .  .  .  .  .  .  .* .  .  .  .  .  .* . 
+Samurai 0.2@(7,1)
+Samurai 0.2@(7,1)
+Samurai 0.2@(7,1)
+Samurai 0.2@(7,1)
+Samurai 0.2@(7,1)
+Samurai 0.2@(7,1)
+### Turn: 5; Side: 1; Samurai: 2; Actions: 7 3
+Samurai 1.2 performs action: 7
+Samurai 1.2 moves from (7,14) to (7,13)
+Samurai 1.2 performs action: 3
+Section (8,14) occupied by 5
+Section (8,13) occupied by 5
+Section (8,12) occupied by 5
+Section (7,12) occupied by 5
+Section (6,14) occupied by 5
+Section (6,13) occupied by 5
+Section (6,12) occupied by 5
+
+ .  .  .  .  .  .  2  .  2  .  .  .  .  .  . 
+ .* .  .  .  .  .  2  .* 2  .  .  .  .  .  . 
+ 0  .  .  .  .  .  2  2  2  .  .  .  .  .  . 
+ 0  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ 0  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ 0  1  .  .  .  .  .  .  .  .  .  .  .  4  . 
+ .  1  1  .  .  .  .  .  .  .  .  .  4  4  . 
+ .  .* 1  1  .  .  .  .  .  .  .  4  4  .* . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  3 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  3 
+ .  .  .  .  .  .  5  5  5  .  .  .  .  .  3 
+ .  .  .  .  .  .  5  .* 5  .  .  .  .  .  3 
+ .  .  .  .  .  .  5  .  5  .  .  .  .  .* . 
+Samurai 1.2@(7,13)
+Samurai 1.2@(7,13)
+Samurai 1.2@(7,13)
+Samurai 1.2@(7,13)
+Samurai 1.2@(7,13)
+Samurai 1.2@(7,13)
+### Turn: 6; Side: 1; Samurai: 0; Actions: 3 7
+Samurai 1.0 performs action: 3
+Section (13,13) occupied by 3
+Section (13,12) occupied by 3
+Section (13,11) occupied by 3
+Section (13,10) occupied by 3
+Samurai 1.0 performs action: 7
+Samurai 1.0 moves from (13,14) to (13,13)
+
+ .  .  .  .  .  .  2  .  2  .  .  .  .  .  . 
+ .* .  .  .  .  .  2  .* 2  .  .  .  .  .  . 
+ 0  .  .  .  .  .  2  2  2  .  .  .  .  .  . 
+ 0  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ 0  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ 0  1  .  .  .  .  .  .  .  .  .  .  .  4  . 
+ .  1  1  .  .  .  .  .  .  .  .  .  4  4  . 
+ .  .* 1  1  .  .  .  .  .  .  .  4  4  .* . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  3  3 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  3  3 
+ .  .  .  .  .  .  5  5  5  .  .  .  .  3  3 
+ .  .  .  .  .  .  5  .* 5  .  .  .  .  3* 3 
+ .  .  .  .  .  .  5  .  5  .  .  .  .  .  . 
+Samurai 1.0@(13,13)
+Samurai 1.0@(13,13)
+Samurai 1.0@(13,13)
+Samurai 1.0@(13,13)
+Samurai 1.0@(13,13)
+Samurai 1.0@(13,13)
+### Turn: 7; Side: 0; Samurai: 0; Actions: 6 2
+Samurai 0.0 performs action: 6
+Samurai 0.0 moves from (0,1) to (1,1)
+Samurai 0.0 performs action: 2
+Section (2,1) occupied by 0
+Section (3,1) occupied by 0
+Section (4,1) occupied by 0
+Section (5,1) occupied by 0
+
+ .  .  .  .  .  .  2  .  2  .  .  .  .  .  . 
+ .  .* 0  0  0  0  2  .* 2  .  .  .  .  .  . 
+ 0  .  .  .  .  .  2  2  2  .  .  .  .  .  . 
+ 0  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ 0  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ 0  1  .  .  .  .  .  .  .  .  .  .  .  4  . 
+ .  1  1  .  .  .  .  .  .  .  .  .  4  4  . 
+ .  .* 1  1  .  .  .  .  .  .  .  4  4  .* . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  3  3 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  3  3 
+ .  .  .  .  .  .  5  5  5  .  .  .  .  3  3 
+ .  .  .  .  .  .  5  .* 5  .  .  .  .  3* 3 
+ .  .  .  .  .  .  5  .  5  .  .  .  .  .  . 
+Samurai 0.0@(1,1)
+Samurai 0.0@(1,1)
+Samurai 0.0@(1,1)
+Samurai 0.0@(1,1)
+Samurai 0.0@(1,1)
+Samurai 0.0@(1,1)
+### Turn: 8; Side: 0; Samurai: 1; Actions: 5 1
+Samurai 0.1 performs action: 5
+Samurai 0.1 moves from (1,7) to (1,8)
+Samurai 0.1 performs action: 1
+Section (1,9) occupied by 1
+Section (1,10) occupied by 1
+Section (2,8) occupied by 1
+Section (2,9) occupied by 1
+Section (3,8) occupied by 1
+
+ .  .  .  .  .  .  2  .  2  .  .  .  .  .  . 
+ .  .* 0  0  0  0  2  .* 2  .  .  .  .  .  . 
+ 0  .  .  .  .  .  2  2  2  .  .  .  .  .  . 
+ 0  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ 0  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ 0  1  .  .  .  .  .  .  .  .  .  .  .  4  . 
+ .  1  1  .  .  .  .  .  .  .  .  .  4  4  . 
+ .  .  1  1  .  .  .  .  .  .  .  4  4  .* . 
+ .  .* 1  1  .  .  .  .  .  .  .  .  .  .  . 
+ .  1  1  .  .  .  .  .  .  .  .  .  .  .  . 
+ .  1  .  .  .  .  .  .  .  .  .  .  .  3  3 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  3  3 
+ .  .  .  .  .  .  5  5  5  .  .  .  .  3  3 
+ .  .  .  .  .  .  5  .* 5  .  .  .  .  3* 3 
+ .  .  .  .  .  .  5  .  5  .  .  .  .  .  . 
+Samurai 0.1@(1,8)
+Samurai 0.1@(1,8)
+Samurai 0.1@(1,8)
+Samurai 0.1@(1,8)
+Samurai 0.1@(1,8)
+Samurai 0.1@(1,8)
+### Turn: 9; Side: 1; Samurai: 1; Actions: 8 4 9
+Samurai 1.1 performs action: 8
+Samurai 1.1 moves from (13,7) to (12,7)
+Samurai 1.1 performs action: 4
+Section (11,7) occupied by 4
+Section (10,7) occupied by 4
+Section (12,8) occupied by 4
+Section (11,8) occupied by 4
+Section (12,9) occupied by 4
+Samurai 1.1 performs action: 9
+
+ .  .  .  .  .  .  2  .  2  .  .  .  .  .  . 
+ .  .* 0  0  0  0  2  .* 2  .  .  .  .  .  . 
+ 0  .  .  .  .  .  2  2  2  .  .  .  .  .  . 
+ 0  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ 0  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ 0  1  .  .  .  .  .  .  .  .  .  .  .  4  . 
+ .  1  1  .  .  .  .  .  .  .  .  .  4  4  . 
+ .  .  1  1  .  .  .  .  .  .  4  4  4* .  . 
+ .  .* 1  1  .  .  .  .  .  .  .  4  4  .  . 
+ .  1  1  .  .  .  .  .  .  .  .  .  4  .  . 
+ .  1  .  .  .  .  .  .  .  .  .  .  .  3  3 
+ .  .  .  .  .  .  .  .  .  .  .  .  .  3  3 
+ .  .  .  .  .  .  5  5  5  .  .  .  .  3  3 
+ .  .  .  .  .  .  5  .* 5  .  .  .  .  3* 3 
+ .  .  .  .  .  .  5  .  5  .  .  .  .  .  . 
+Samurai 1.1@(12,7); hiding
+Samurai 1.1@(12,7); hiding
+Samurai 1.1@(12,7); hiding
+Samurai 1.1@(12,7); hiding
+Samurai 1.1@(12,7); hiding
+Samurai 1.1@(12,7); hiding
+### Turn: 10; Side: 1; Samurai: 2; Actions: 7 2
+Samurai 1.2 performs action: 7
+Samurai 1.2 moves from (7,13) to (7,12)
+Samurai 1.2 performs action: 2
+Section (6,13) occupied by 5
+Section (7,13) occupied by 5
+Section (8,13) occupied by 5
+Section (8,12) occupied by 5
+Section (6,11) occupied by 5
+Section (7,11) occupied by 5
+Section (8,11) occupied by 5
+
+ .  .  .  .  .  .  2  .  2  .  .  .  .  .  . 
+ .  .* 0  0  0  0  2  .* 2  .  .  .  .  .  . 
+ 0  .  .  .  .  .  2  2  2  .  .  .  .  .  . 
+ 0  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ 0  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ 0  1  .  .  .  .  .  .  .  .  .  .  .  4  . 
+ .  1  1  .  .  .  .  .  .  .  .  .  4  4  . 
+ .  .  1  1  .  .  .  .  .  .  4  4  4* .  . 
+ .  .* 1  1  .  .  .  .  .  .  .  4  4  .  . 
+ .  1  1  .  .  .  .  .  .  .  .  .  4  .  . 
+ .  1  .  .  .  .  .  .  .  .  .  .  .  3  3 
+ .  .  .  .  .  .  5  5  5  .  .  .  .  3  3 
+ .  .  .  .  .  .  5  5* 5  .  .  .  .  3  3 
+ .  .  .  .  .  .  5  5  5  .  .  .  .  3* 3 
+ .  .  .  .  .  .  5  .  5  .  .  .  .  .  . 
+Samurai 1.2@(7,12)
+Samurai 1.2@(7,12)
+Samurai 1.2@(7,12)
+Samurai 1.2@(7,12)
+Samurai 1.2@(7,12)
+Samurai 1.2@(7,12)
+### Turn: 11; Side: 0; Samurai: 2; Actions: 5 5 5
+Samurai 0.2 performs action: 5
+Samurai 0.2 moves from (7,1) to (7,2)
+Samurai 0.2 performs action: 5
+Samurai 0.2 moves from (7,2) to (7,3)
+Samurai 0.2 performs action: 5
+Samurai 0.2 moves from (7,3) to (7,4)
+
+ .  .  .  .  .  .  2  .  2  .  .  .  .  .  . 
+ .  .* 0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  .  .  .  .  .  2  2  2  .  .  .  .  .  . 
+ 0  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ 0  .  .  .  .  .  .  .* .  .  .  .  .  .  . 
+ 0  1  .  .  .  .  .  .  .  .  .  .  .  4  . 
+ .  1  1  .  .  .  .  .  .  .  .  .  4  4  . 
+ .  .  1  1  .  .  .  .  .  .  4  4  4* .  . 
+ .  .* 1  1  .  .  .  .  .  .  .  4  4  .  . 
+ .  1  1  .  .  .  .  .  .  .  .  .  4  .  . 
+ .  1  .  .  .  .  .  .  .  .  .  .  .  3  3 
+ .  .  .  .  .  .  5  5  5  .  .  .  .  3  3 
+ .  .  .  .  .  .  5  5* 5  .  .  .  .  3  3 
+ .  .  .  .  .  .  5  5  5  .  .  .  .  3* 3 
+ .  .  .  .  .  .  5  .  5  .  .  .  .  .  . 
+Samurai 0.2@(7,4)
+Samurai 0.2@(7,4)
+Samurai 0.2@(7,4)
+Samurai 0.2@(7,4)
+Samurai 0.2@(7,4)
+Samurai 0.2@(7,4)
+### Turn: 12; Side: 0; Samurai: 0; Actions: 5 2
+Samurai 0.0 performs action: 5
+Samurai 0.0 moves from (1,1) to (1,2)
+Samurai 0.0 performs action: 2
+Section (2,2) occupied by 0
+Section (3,2) occupied by 0
+Section (4,2) occupied by 0
+Section (5,2) occupied by 0
+
+ .  .  .  .  .  .  2  .  2  .  .  .  .  .  . 
+ .  .  0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  .* 0  0  0  0  2  2  2  .  .  .  .  .  . 
+ 0  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ 0  .  .  .  .  .  .  .* .  .  .  .  .  .  . 
+ 0  1  .  .  .  .  .  .  .  .  .  .  .  4  . 
+ .  1  1  .  .  .  .  .  .  .  .  .  4  4  . 
+ .  .  1  1  .  .  .  .  .  .  4  4  4* .  . 
+ .  .* 1  1  .  .  .  .  .  .  .  4  4  .  . 
+ .  1  1  .  .  .  .  .  .  .  .  .  4  .  . 
+ .  1  .  .  .  .  .  .  .  .  .  .  .  3  3 
+ .  .  .  .  .  .  5  5  5  .  .  .  .  3  3 
+ .  .  .  .  .  .  5  5* 5  .  .  .  .  3  3 
+ .  .  .  .  .  .  5  5  5  .  .  .  .  3* 3 
+ .  .  .  .  .  .  5  .  5  .  .  .  .  .  . 
+Samurai 0.0@(1,2)
+Samurai 0.0@(1,2)
+Samurai 0.0@(1,2)
+Samurai 0.0@(1,2)
+Samurai 0.0@(1,2)
+Samurai 0.0@(1,2)
+### Turn: 13; Side: 1; Samurai: 0; Actions: 4 9 8
+Samurai 1.0 performs action: 4
+Section (12,13) occupied by 3
+Section (11,13) occupied by 3
+Section (10,13) occupied by 3
+Section (9,13) occupied by 3
+Samurai 1.0 performs action: 9
+Samurai 1.0 performs action: 8
+Samurai 1.0 moves from (13,13) to (12,13)
+
+ .  .  .  .  .  .  2  .  2  .  .  .  .  .  . 
+ .  .  0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  .* 0  0  0  0  2  2  2  .  .  .  .  .  . 
+ 0  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ 0  .  .  .  .  .  .  .* .  .  .  .  .  .  . 
+ 0  1  .  .  .  .  .  .  .  .  .  .  .  4  . 
+ .  1  1  .  .  .  .  .  .  .  .  .  4  4  . 
+ .  .  1  1  .  .  .  .  .  .  4  4  4* .  . 
+ .  .* 1  1  .  .  .  .  .  .  .  4  4  .  . 
+ .  1  1  .  .  .  .  .  .  .  .  .  4  .  . 
+ .  1  .  .  .  .  .  .  .  .  .  .  .  3  3 
+ .  .  .  .  .  .  5  5  5  .  .  .  .  3  3 
+ .  .  .  .  .  .  5  5* 5  .  .  .  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3  3  3* 3  3 
+ .  .  .  .  .  .  5  .  5  .  .  .  .  .  . 
+Samurai 1.0@(12,13); hiding
+Samurai 1.0@(12,13); hiding
+Samurai 1.0@(12,13); hiding
+Samurai 1.0@(12,13); hiding
+Samurai 1.0@(12,13); hiding
+Samurai 1.0@(12,13); hiding
+### Turn: 14; Side: 1; Samurai: 1; Actions: 7 10 3
+Samurai 1.1 performs action: 7
+Samurai 1.1 moves from (12,7) to (12,6)
+Samurai 1.1 performs action: 10
+Samurai 1.1 performs action: 3
+Section (12,5) occupied by 4
+Section (12,4) occupied by 4
+Section (11,6) occupied by 4
+Section (11,5) occupied by 4
+Section (10,6) occupied by 4
+
+ .  .  .  .  .  .  2  .  2  .  .  .  .  .  . 
+ .  .  0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  .* 0  0  0  0  2  2  2  .  .  .  .  .  . 
+ 0  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ 0  .  .  .  .  .  .  .* .  .  .  .  4  .  . 
+ 0  1  .  .  .  .  .  .  .  .  .  4  4  4  . 
+ .  1  1  .  .  .  .  .  .  .  4  4  4* 4  . 
+ .  .  1  1  .  .  .  .  .  .  4  4  4  .  . 
+ .  .* 1  1  .  .  .  .  .  .  .  4  4  .  . 
+ .  1  1  .  .  .  .  .  .  .  .  .  4  .  . 
+ .  1  .  .  .  .  .  .  .  .  .  .  .  3  3 
+ .  .  .  .  .  .  5  5  5  .  .  .  .  3  3 
+ .  .  .  .  .  .  5  5* 5  .  .  .  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3  3  3* 3  3 
+ .  .  .  .  .  .  5  .  5  .  .  .  .  .  . 
+Samurai 1.1@(12,6)
+Samurai 1.1@(12,6)
+Samurai 1.1@(12,6)
+Samurai 1.1@(12,6)
+Samurai 1.1@(12,6)
+Samurai 1.1@(12,6)
+### Turn: 15; Side: 0; Samurai: 1; Actions: 6 1 9
+Samurai 0.1 performs action: 6
+Samurai 0.1 moves from (1,8) to (2,8)
+Samurai 0.1 performs action: 1
+Section (2,9) occupied by 1
+Section (2,10) occupied by 1
+Section (3,8) occupied by 1
+Section (3,9) occupied by 1
+Section (4,8) occupied by 1
+Samurai 0.1 performs action: 9
+
+ .  .  .  .  .  .  2  .  2  .  .  .  .  .  . 
+ .  .  0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  .* 0  0  0  0  2  2  2  .  .  .  .  .  . 
+ 0  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ 0  .  .  .  .  .  .  .* .  .  .  .  4  .  . 
+ 0  1  .  .  .  .  .  .  .  .  .  4  4  4  . 
+ .  1  1  .  .  .  .  .  .  .  4  4  4* 4  . 
+ .  .  1  1  .  .  .  .  .  .  4  4  4  .  . 
+ .  .  1* 1  1  .  .  .  .  .  .  4  4  .  . 
+ .  1  1  1  .  .  .  .  .  .  .  .  4  .  . 
+ .  1  1  .  .  .  .  .  .  .  .  .  .  3  3 
+ .  .  .  .  .  .  5  5  5  .  .  .  .  3  3 
+ .  .  .  .  .  .  5  5* 5  .  .  .  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3  3  3* 3  3 
+ .  .  .  .  .  .  5  .  5  .  .  .  .  .  . 
+Samurai 0.1@(2,8); hiding
+Samurai 0.1@(2,8); hiding
+Samurai 0.1@(2,8); hiding
+Samurai 0.1@(2,8); hiding
+Samurai 0.1@(2,8); hiding
+Samurai 0.1@(2,8); hiding
+### Turn: 16; Side: 0; Samurai: 2; Actions: 5 4
+Samurai 0.2 performs action: 5
+Samurai 0.2 moves from (7,4) to (7,5)
+Samurai 0.2 performs action: 4
+Section (8,4) occupied by 2
+Section (7,4) occupied by 2
+Section (6,4) occupied by 2
+Section (6,5) occupied by 2
+Section (8,6) occupied by 2
+Section (7,6) occupied by 2
+Section (6,6) occupied by 2
+
+ .  .  .  .  .  .  2  .  2  .  .  .  .  .  . 
+ .  .  0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  .* 0  0  0  0  2  2  2  .  .  .  .  .  . 
+ 0  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ 0  .  .  .  .  .  2  2  2  .  .  .  4  .  . 
+ 0  1  .  .  .  .  2  .* .  .  .  4  4  4  . 
+ .  1  1  .  .  .  2  2  2  .  4  4  4* 4  . 
+ .  .  1  1  .  .  .  .  .  .  4  4  4  .  . 
+ .  .  1* 1  1  .  .  .  .  .  .  4  4  .  . 
+ .  1  1  1  .  .  .  .  .  .  .  .  4  .  . 
+ .  1  1  .  .  .  .  .  .  .  .  .  .  3  3 
+ .  .  .  .  .  .  5  5  5  .  .  .  .  3  3 
+ .  .  .  .  .  .  5  5* 5  .  .  .  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3  3  3* 3  3 
+ .  .  .  .  .  .  5  .  5  .  .  .  .  .  . 
+Samurai 0.2@(7,5)
+Samurai 0.2@(7,5)
+Samurai 0.2@(7,5)
+Samurai 0.2@(7,5)
+Samurai 0.2@(7,5)
+Samurai 0.2@(7,5)
+### Turn: 17; Side: 1; Samurai: 2; Actions: 9 10 7 7
+Samurai 1.2 performs action: 9
+Samurai 1.2 performs action: 10
+Samurai 1.2 performs action: 7
+Samurai 1.2 moves from (7,12) to (7,11)
+Samurai 1.2 performs action: 7
+Samurai 1.2 moves from (7,11) to (7,10)
+
+ .  .  .  .  .  .  2  .  2  .  .  .  .  .  . 
+ .  .  0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  .* 0  0  0  0  2  2  2  .  .  .  .  .  . 
+ 0  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ 0  .  .  .  .  .  2  2  2  .  .  .  4  .  . 
+ 0  1  .  .  .  .  2  .* .  .  .  4  4  4  . 
+ .  1  1  .  .  .  2  2  2  .  4  4  4* 4  . 
+ .  .  1  1  .  .  .  .  .  .  4  4  4  .  . 
+ .  .  1* 1  1  .  .  .  .  .  .  4  4  .  . 
+ .  1  1  1  .  .  .  .  .  .  .  .  4  .  . 
+ .  1  1  .  .  .  .  .* .  .  .  .  .  3  3 
+ .  .  .  .  .  .  5  5  5  .  .  .  .  3  3 
+ .  .  .  .  .  .  5  5  5  .  .  .  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3  3  3* 3  3 
+ .  .  .  .  .  .  5  .  5  .  .  .  .  .  . 
+Samurai 1.2@(7,10)
+Samurai 1.2@(7,10)
+Samurai 1.2@(7,10)
+Samurai 1.2@(7,10)
+Samurai 1.2@(7,10)
+Samurai 1.2@(7,10)
+### Turn: 18; Side: 1; Samurai: 0; Actions: 8 10 3
+Samurai 1.0 performs action: 8
+Samurai 1.0 moves from (12,13) to (11,13)
+Samurai 1.0 performs action: 10
+Samurai 1.0 performs action: 3
+Section (11,12) occupied by 3
+Section (11,11) occupied by 3
+Section (11,10) occupied by 3
+Section (11,9) occupied by 3
+
+ .  .  .  .  .  .  2  .  2  .  .  .  .  .  . 
+ .  .  0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  .* 0  0  0  0  2  2  2  .  .  .  .  .  . 
+ 0  .  .  .  .  .  .  .  .  .  .  .  .  .  . 
+ 0  .  .  .  .  .  2  2  2  .  .  .  4  .  . 
+ 0  1  .  .  .  .  2  .* .  .  .  4  4  4  . 
+ .  1  1  .  .  .  2  2  2  .  4  4  4* 4  . 
+ .  .  1  1  .  .  .  .  .  .  4  4  4  .  . 
+ .  .  1* 1  1  .  .  .  .  .  .  4  4  .  . 
+ .  1  1  1  .  .  .  .  .  .  .  3  4  .  . 
+ .  1  1  .  .  .  .  .* .  .  .  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  .  .  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  .  .  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3  3* 3  3  3 
+ .  .  .  .  .  .  5  .  5  .  .  .  .  .  . 
+Samurai 1.0@(11,13)
+Samurai 1.0@(11,13)
+Samurai 1.0@(11,13)
+Samurai 1.0@(11,13)
+Samurai 1.0@(11,13)
+Samurai 1.0@(11,13)
+### Turn: 19; Side: 0; Samurai: 0; Actions: 5 2
+Samurai 0.0 performs action: 5
+Samurai 0.0 moves from (1,2) to (1,3)
+Samurai 0.0 performs action: 2
+Section (2,3) occupied by 0
+Section (3,3) occupied by 0
+Section (4,3) occupied by 0
+Section (5,3) occupied by 0
+
+ .  .  .  .  .  .  2  .  2  .  .  .  .  .  . 
+ .  .  0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  .  0  0  0  0  2  2  2  .  .  .  .  .  . 
+ 0  .* 0  0  0  0  .  .  .  .  .  .  .  .  . 
+ 0  .  .  .  .  .  2  2  2  .  .  .  4  .  . 
+ 0  1  .  .  .  .  2  .* .  .  .  4  4  4  . 
+ .  1  1  .  .  .  2  2  2  .  4  4  4* 4  . 
+ .  .  1  1  .  .  .  .  .  .  4  4  4  .  . 
+ .  .  1* 1  1  .  .  .  .  .  .  4  4  .  . 
+ .  1  1  1  .  .  .  .  .  .  .  3  4  .  . 
+ .  1  1  .  .  .  .  .* .  .  .  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  .  .  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  .  .  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3  3* 3  3  3 
+ .  .  .  .  .  .  5  .  5  .  .  .  .  .  . 
+Samurai 0.0@(1,3)
+Samurai 0.0@(1,3)
+Samurai 0.0@(1,3)
+Samurai 0.0@(1,3)
+Samurai 0.0@(1,3)
+Samurai 0.0@(1,3)
+### Turn: 20; Side: 0; Samurai: 1; Actions: 10 3 6
+Samurai 0.1 performs action: 10
+Samurai 0.1 performs action: 3
+Section (2,7) occupied by 1
+Section (2,6) occupied by 1
+Section (1,8) occupied by 1
+Section (1,7) occupied by 1
+Section (0,8) occupied by 1
+Samurai 0.1 performs action: 6
+Samurai 0.1 moves from (2,8) to (3,8)
+
+ .  .  .  .  .  .  2  .  2  .  .  .  .  .  . 
+ .  .  0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  .  0  0  0  0  2  2  2  .  .  .  .  .  . 
+ 0  .* 0  0  0  0  .  .  .  .  .  .  .  .  . 
+ 0  .  .  .  .  .  2  2  2  .  .  .  4  .  . 
+ 0  1  .  .  .  .  2  .* .  .  .  4  4  4  . 
+ .  1  1  .  .  .  2  2  2  .  4  4  4* 4  . 
+ .  1  1  1  .  .  .  .  .  .  4  4  4  .  . 
+ 1  1  1  1* 1  .  .  .  .  .  .  4  4  .  . 
+ .  1  1  1  .  .  .  .  .  .  .  3  4  .  . 
+ .  1  1  .  .  .  .  .* .  .  .  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  .  .  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  .  .  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3  3* 3  3  3 
+ .  .  .  .  .  .  5  .  5  .  .  .  .  .  . 
+Samurai 0.1@(3,8)
+Samurai 0.1@(3,8)
+Samurai 0.1@(3,8)
+Samurai 0.1@(3,8)
+Samurai 0.1@(3,8)
+Samurai 0.1@(3,8)
+### Turn: 21; Side: 1; Samurai: 1; Actions: 7 2 9
+Samurai 1.1 performs action: 7
+Samurai 1.1 moves from (12,6) to (12,5)
+Samurai 1.1 performs action: 2
+Section (13,5) occupied by 4
+Section (14,5) occupied by 4
+Section (12,4) occupied by 4
+Section (13,4) occupied by 4
+Section (12,3) occupied by 4
+Samurai 1.1 performs action: 9
+
+ .  .  .  .  .  .  2  .  2  .  .  .  .  .  . 
+ .  .  0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  .  0  0  0  0  2  2  2  .  .  .  .  .  . 
+ 0  .* 0  0  0  0  .  .  .  .  .  .  4  .  . 
+ 0  .  .  .  .  .  2  2  2  .  .  .  4  4  . 
+ 0  1  .  .  .  .  2  .* .  .  .  4  4* 4  4 
+ .  1  1  .  .  .  2  2  2  .  4  4  4  4  . 
+ .  1  1  1  .  .  .  .  .  .  4  4  4  .  . 
+ 1  1  1  1* 1  .  .  .  .  .  .  4  4  .  . 
+ .  1  1  1  .  .  .  .  .  .  .  3  4  .  . 
+ .  1  1  .  .  .  .  .* .  .  .  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  .  .  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  .  .  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3  3* 3  3  3 
+ .  .  .  .  .  .  5  .  5  .  .  .  .  .  . 
+Samurai 1.1@(12,5); hiding
+Samurai 1.1@(12,5); hiding
+Samurai 1.1@(12,5); hiding
+Samurai 1.1@(12,5); hiding
+Samurai 1.1@(12,5); hiding
+Samurai 1.1@(12,5); hiding
+### Turn: 22; Side: 1; Samurai: 2; Actions: 3 5
+Samurai 1.2 performs action: 3
+Section (8,11) occupied by 5
+Section (8,10) occupied by 5
+Section (8,9) occupied by 5
+Section (7,9) occupied by 5
+Section (6,11) occupied by 5
+Section (6,10) occupied by 5
+Section (6,9) occupied by 5
+Samurai 1.2 performs action: 5
+Samurai 1.2 moves from (7,10) to (7,11)
+
+ .  .  .  .  .  .  2  .  2  .  .  .  .  .  . 
+ .  .  0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  .  0  0  0  0  2  2  2  .  .  .  .  .  . 
+ 0  .* 0  0  0  0  .  .  .  .  .  .  4  .  . 
+ 0  .  .  .  .  .  2  2  2  .  .  .  4  4  . 
+ 0  1  .  .  .  .  2  .* .  .  .  4  4* 4  4 
+ .  1  1  .  .  .  2  2  2  .  4  4  4  4  . 
+ .  1  1  1  .  .  .  .  .  .  4  4  4  .  . 
+ 1  1  1  1* 1  .  .  .  .  .  .  4  4  .  . 
+ .  1  1  1  .  .  5  5  5  .  .  3  4  .  . 
+ .  1  1  .  .  .  5  .  5  .  .  3  .  3  3 
+ .  .  .  .  .  .  5  5* 5  .  .  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  .  .  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3  3* 3  3  3 
+ .  .  .  .  .  .  5  .  5  .  .  .  .  .  . 
+Samurai 1.2@(7,11)
+Samurai 1.2@(7,11)
+Samurai 1.2@(7,11)
+Samurai 1.2@(7,11)
+Samurai 1.2@(7,11)
+Samurai 1.2@(7,11)
+### Turn: 23; Side: 0; Samurai: 2; Actions: 5 4 9
+Samurai 0.2 performs action: 5
+Samurai 0.2 moves from (7,5) to (7,6)
+Samurai 0.2 performs action: 4
+Section (8,5) occupied by 2
+Section (7,5) occupied by 2
+Section (6,5) occupied by 2
+Section (6,6) occupied by 2
+Section (8,7) occupied by 2
+Section (7,7) occupied by 2
+Section (6,7) occupied by 2
+Samurai 0.2 performs action: 9
+
+ .  .  .  .  .  .  2  .  2  .  .  .  .  .  . 
+ .  .  0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  .  0  0  0  0  2  2  2  .  .  .  .  .  . 
+ 0  .* 0  0  0  0  .  .  .  .  .  .  4  .  . 
+ 0  .  .  .  .  .  2  2  2  .  .  .  4  4  . 
+ 0  1  .  .  .  .  2  2  2  .  .  4  4* 4  4 
+ .  1  1  .  .  .  2  2* 2  .  4  4  4  4  . 
+ .  1  1  1  .  .  2  2  2  .  4  4  4  .  . 
+ 1  1  1  1* 1  .  .  .  .  .  .  4  4  .  . 
+ .  1  1  1  .  .  5  5  5  .  .  3  4  .  . 
+ .  1  1  .  .  .  5  .  5  .  .  3  .  3  3 
+ .  .  .  .  .  .  5  5* 5  .  .  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  .  .  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3  3* 3  3  3 
+ .  .  .  .  .  .  5  .  5  .  .  .  .  .  . 
+Samurai 0.2@(7,6); hiding
+Samurai 0.2@(7,6); hiding
+Samurai 0.2@(7,6); hiding
+Samurai 0.2@(7,6); hiding
+Samurai 0.2@(7,6); hiding
+Samurai 0.2@(7,6); hiding
+### Turn: 24; Side: 0; Samurai: 0; Actions: 5 2
+Samurai 0.0 performs action: 5
+Samurai 0.0 moves from (1,3) to (1,4)
+Samurai 0.0 performs action: 2
+Section (2,4) occupied by 0
+Section (3,4) occupied by 0
+Section (4,4) occupied by 0
+Section (5,4) occupied by 0
+
+ .  .  .  .  .  .  2  .  2  .  .  .  .  .  . 
+ .  .  0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  .  0  0  0  0  2  2  2  .  .  .  .  .  . 
+ 0  .  0  0  0  0  .  .  .  .  .  .  4  .  . 
+ 0  .* 0  0  0  0  2  2  2  .  .  .  4  4  . 
+ 0  1  .  .  .  .  2  2  2  .  .  4  4* 4  4 
+ .  1  1  .  .  .  2  2* 2  .  4  4  4  4  . 
+ .  1  1  1  .  .  2  2  2  .  4  4  4  .  . 
+ 1  1  1  1* 1  .  .  .  .  .  .  4  4  .  . 
+ .  1  1  1  .  .  5  5  5  .  .  3  4  .  . 
+ .  1  1  .  .  .  5  .  5  .  .  3  .  3  3 
+ .  .  .  .  .  .  5  5* 5  .  .  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  .  .  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3  3* 3  3  3 
+ .  .  .  .  .  .  5  .  5  .  .  .  .  .  . 
+Samurai 0.0@(1,4)
+Samurai 0.0@(1,4)
+Samurai 0.0@(1,4)
+Samurai 0.0@(1,4)
+Samurai 0.0@(1,4)
+Samurai 0.0@(1,4)
+### Turn: 25; Side: 1; Samurai: 0; Actions: 8 3 9
+Samurai 1.0 performs action: 8
+Samurai 1.0 moves from (11,13) to (10,13)
+Samurai 1.0 performs action: 3
+Section (10,12) occupied by 3
+Section (10,11) occupied by 3
+Section (10,10) occupied by 3
+Section (10,9) occupied by 3
+Samurai 1.0 performs action: 9
+
+ .  .  .  .  .  .  2  .  2  .  .  .  .  .  . 
+ .  .  0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  .  0  0  0  0  2  2  2  .  .  .  .  .  . 
+ 0  .  0  0  0  0  .  .  .  .  .  .  4  .  . 
+ 0  .* 0  0  0  0  2  2  2  .  .  .  4  4  . 
+ 0  1  .  .  .  .  2  2  2  .  .  4  4* 4  4 
+ .  1  1  .  .  .  2  2* 2  .  4  4  4  4  . 
+ .  1  1  1  .  .  2  2  2  .  4  4  4  .  . 
+ 1  1  1  1* 1  .  .  .  .  .  .  4  4  .  . 
+ .  1  1  1  .  .  5  5  5  .  3  3  4  .  . 
+ .  1  1  .  .  .  5  .  5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5* 5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3* 3  3  3  3 
+ .  .  .  .  .  .  5  .  5  .  .  .  .  .  . 
+Samurai 1.0@(10,13); hiding
+Samurai 1.0@(10,13); hiding
+Samurai 1.0@(10,13); hiding
+Samurai 1.0@(10,13); hiding
+Samurai 1.0@(10,13); hiding
+Samurai 1.0@(10,13); hiding
+### Turn: 26; Side: 1; Samurai: 1; Actions: 10 9 10 7 9
+Samurai 1.1 performs action: 10
+Samurai 1.1 performs action: 9
+Samurai 1.1 performs action: 10
+Samurai 1.1 performs action: 7
+Samurai 1.1 moves from (12,5) to (12,4)
+Samurai 1.1 performs action: 9
+
+ .  .  .  .  .  .  2  .  2  .  .  .  .  .  . 
+ .  .  0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  .  0  0  0  0  2  2  2  .  .  .  .  .  . 
+ 0  .  0  0  0  0  .  .  .  .  .  .  4  .  . 
+ 0  .* 0  0  0  0  2  2  2  .  .  .  4* 4  . 
+ 0  1  .  .  .  .  2  2  2  .  .  4  4  4  4 
+ .  1  1  .  .  .  2  2* 2  .  4  4  4  4  . 
+ .  1  1  1  .  .  2  2  2  .  4  4  4  .  . 
+ 1  1  1  1* 1  .  .  .  .  .  .  4  4  .  . 
+ .  1  1  1  .  .  5  5  5  .  3  3  4  .  . 
+ .  1  1  .  .  .  5  .  5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5* 5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3* 3  3  3  3 
+ .  .  .  .  .  .  5  .  5  .  .  .  .  .  . 
+Samurai 1.1@(12,4); hiding
+Samurai 1.1@(12,4); hiding
+Samurai 1.1@(12,4); hiding
+Samurai 1.1@(12,4); hiding
+Samurai 1.1@(12,4); hiding
+Samurai 1.1@(12,4); hiding
+### Turn: 27; Side: 0; Samurai: 1; Actions: 6 1 9
+Samurai 0.1 performs action: 6
+Samurai 0.1 moves from (3,8) to (4,8)
+Samurai 0.1 performs action: 1
+Section (4,9) occupied by 1
+Section (4,10) occupied by 1
+Section (5,8) occupied by 1
+Section (5,9) occupied by 1
+Section (6,8) occupied by 1
+Samurai 0.1 performs action: 9
+
+ .  .  .  .  .  .  2  .  2  .  .  .  .  .  . 
+ .  .  0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  .  0  0  0  0  2  2  2  .  .  .  .  .  . 
+ 0  .  0  0  0  0  .  .  .  .  .  .  4  .  . 
+ 0  .* 0  0  0  0  2  2  2  .  .  .  4* 4  . 
+ 0  1  .  .  .  .  2  2  2  .  .  4  4  4  4 
+ .  1  1  .  .  .  2  2* 2  .  4  4  4  4  . 
+ .  1  1  1  .  .  2  2  2  .  4  4  4  .  . 
+ 1  1  1  1  1* 1  1  .  .  .  .  4  4  .  . 
+ .  1  1  1  1  1  5  5  5  .  3  3  4  .  . 
+ .  1  1  .  1  .  5  .  5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5* 5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3* 3  3  3  3 
+ .  .  .  .  .  .  5  .  5  .  .  .  .  .  . 
+Samurai 0.1@(4,8); hiding
+Samurai 0.1@(4,8); hiding
+Samurai 0.1@(4,8); hiding
+Samurai 0.1@(4,8); hiding
+Samurai 0.1@(4,8); hiding
+Samurai 0.1@(4,8); hiding
+### Turn: 28; Side: 0; Samurai: 2; Actions: 10 6 6 6
+Samurai 0.2 performs action: 10
+Samurai 0.2 performs action: 6
+Samurai 0.2 moves from (7,6) to (8,6)
+Samurai 0.2 performs action: 6
+Samurai 0.2 moves from (8,6) to (9,6)
+Samurai 0.2 performs action: 6
+Samurai 0.2 moves from (9,6) to (10,6)
+
+ .  .  .  .  .  .  2  .  2  .  .  .  .  .  . 
+ .  .  0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  .  0  0  0  0  2  2  2  .  .  .  .  .  . 
+ 0  .  0  0  0  0  .  .  .  .  .  .  4  .  . 
+ 0  .* 0  0  0  0  2  2  2  .  .  .  4* 4  . 
+ 0  1  .  .  .  .  2  2  2  .  .  4  4  4  4 
+ .  1  1  .  .  .  2  2  2  .  4* 4  4  4  . 
+ .  1  1  1  .  .  2  2  2  .  4  4  4  .  . 
+ 1  1  1  1  1* 1  1  .  .  .  .  4  4  .  . 
+ .  1  1  1  1  1  5  5  5  .  3  3  4  .  . 
+ .  1  1  .  1  .  5  .  5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5* 5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3* 3  3  3  3 
+ .  .  .  .  .  .  5  .  5  .  .  .  .  .  . 
+Samurai 0.2@(10,6)
+Samurai 0.2@(10,6)
+Samurai 0.2@(10,6)
+Samurai 0.2@(10,6)
+Samurai 0.2@(10,6)
+Samurai 0.2@(10,6)
+### Turn: 29; Side: 1; Samurai: 2; Actions: 8 6 9
+Samurai 1.2 performs action: 8
+Samurai 1.2 moves from (7,11) to (6,11)
+Samurai 1.2 performs action: 6
+Samurai 1.2 moves from (6,11) to (7,11)
+Samurai 1.2 performs action: 9
+
+ .  .  .  .  .  .  2  .  2  .  .  .  .  .  . 
+ .  .  0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  .  0  0  0  0  2  2  2  .  .  .  .  .  . 
+ 0  .  0  0  0  0  .  .  .  .  .  .  4  .  . 
+ 0  .* 0  0  0  0  2  2  2  .  .  .  4* 4  . 
+ 0  1  .  .  .  .  2  2  2  .  .  4  4  4  4 
+ .  1  1  .  .  .  2  2  2  .  4* 4  4  4  . 
+ .  1  1  1  .  .  2  2  2  .  4  4  4  .  . 
+ 1  1  1  1  1* 1  1  .  .  .  .  4  4  .  . 
+ .  1  1  1  1  1  5  5  5  .  3  3  4  .  . 
+ .  1  1  .  1  .  5  .  5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5* 5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3* 3  3  3  3 
+ .  .  .  .  .  .  5  .  5  .  .  .  .  .  . 
+Samurai 1.2@(7,11); hiding
+Samurai 1.2@(7,11); hiding
+Samurai 1.2@(7,11); hiding
+Samurai 1.2@(7,11); hiding
+Samurai 1.2@(7,11); hiding
+Samurai 1.2@(7,11); hiding
+### Turn: 30; Side: 1; Samurai: 0; Actions: 10 5 2
+Samurai 1.0 performs action: 10
+Samurai 1.0 performs action: 5
+Samurai 1.0 moves from (10,13) to (10,14)
+Samurai 1.0 performs action: 2
+Section (11,14) occupied by 3
+Section (12,14) occupied by 3
+Section (13,14) occupied by 3
+
+ .  .  .  .  .  .  2  .  2  .  .  .  .  .  . 
+ .  .  0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  .  0  0  0  0  2  2  2  .  .  .  .  .  . 
+ 0  .  0  0  0  0  .  .  .  .  .  .  4  .  . 
+ 0  .* 0  0  0  0  2  2  2  .  .  .  4* 4  . 
+ 0  1  .  .  .  .  2  2  2  .  .  4  4  4  4 
+ .  1  1  .  .  .  2  2  2  .  4* 4  4  4  . 
+ .  1  1  1  .  .  2  2  2  .  4  4  4  .  . 
+ 1  1  1  1  1* 1  1  .  .  .  .  4  4  .  . 
+ .  1  1  1  1  1  5  5  5  .  3  3  4  .  . 
+ .  1  1  .  1  .  5  .  5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5* 5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  5  .  5  .  .* 3  3  3  . 
+Samurai 1.0@(10,14)
+Samurai 1.0@(10,14)
+Samurai 1.0@(10,14)
+Samurai 1.0@(10,14)
+Samurai 1.0@(10,14)
+Samurai 1.0@(10,14)
+### Turn: 31; Side: 0; Samurai: 0; Actions: 5 2 9
+Samurai 0.0 performs action: 5
+Samurai 0.0 moves from (1,4) to (1,5)
+Samurai 0.0 performs action: 2
+Section (2,5) occupied by 0
+Section (3,5) occupied by 0
+Section (4,5) occupied by 0
+Section (5,5) occupied by 0
+Samurai 0.0 performs action: 9
+
+ .  .  .  .  .  .  2  .  2  .  .  .  .  .  . 
+ .  .  0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  .  0  0  0  0  2  2  2  .  .  .  .  .  . 
+ 0  .  0  0  0  0  .  .  .  .  .  .  4  .  . 
+ 0  .  0  0  0  0  2  2  2  .  .  .  4* 4  . 
+ 0  1* 0  0  0  0  2  2  2  .  .  4  4  4  4 
+ .  1  1  .  .  .  2  2  2  .  4* 4  4  4  . 
+ .  1  1  1  .  .  2  2  2  .  4  4  4  .  . 
+ 1  1  1  1  1* 1  1  .  .  .  .  4  4  .  . 
+ .  1  1  1  1  1  5  5  5  .  3  3  4  .  . 
+ .  1  1  .  1  .  5  .  5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5* 5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  5  .  5  .  .* 3  3  3  . 
+Samurai 0.0@(1,5); hiding
+Samurai 0.0@(1,5); hiding
+Samurai 0.0@(1,5); hiding
+Samurai 0.0@(1,5); hiding
+Samurai 0.0@(1,5); hiding
+Samurai 0.0@(1,5); hiding
+### Turn: 32; Side: 0; Samurai: 1; Actions:
+
+ .  .  .  .  .  .  2  .  2  .  .  .  .  .  . 
+ .  .  0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  .  0  0  0  0  2  2  2  .  .  .  .  .  . 
+ 0  .  0  0  0  0  .  .  .  .  .  .  4  .  . 
+ 0  .  0  0  0  0  2  2  2  .  .  .  4* 4  . 
+ 0  1* 0  0  0  0  2  2  2  .  .  4  4  4  4 
+ .  1  1  .  .  .  2  2  2  .  4* 4  4  4  . 
+ .  1  1  1  .  .  2  2  2  .  4  4  4  .  . 
+ 1  1  1  1  1* 1  1  .  .  .  .  4  4  .  . 
+ .  1  1  1  1  1  5  5  5  .  3  3  4  .  . 
+ .  1  1  .  1  .  5  .  5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5* 5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  5  .  5  .  .* 3  3  3  . 
+Samurai 0.1@(4,8); hiding
+Samurai 0.1@(4,8); hiding
+Samurai 0.1@(4,8); hiding
+Samurai 0.1@(4,8); hiding
+Samurai 0.1@(4,8); hiding
+Samurai 0.1@(4,8); hiding
+### Turn: 33; Side: 1; Samurai: 1; Actions: 10 8 6 9
+Samurai 1.1 performs action: 10
+Samurai 1.1 performs action: 8
+Samurai 1.1 moves from (12,4) to (11,4)
+Samurai 1.1 performs action: 6
+Samurai 1.1 moves from (11,4) to (12,4)
+Samurai 1.1 performs action: 9
+
+ .  .  .  .  .  .  2  .  2  .  .  .  .  .  . 
+ .  .  0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  .  0  0  0  0  2  2  2  .  .  .  .  .  . 
+ 0  .  0  0  0  0  .  .  .  .  .  .  4  .  . 
+ 0  .  0  0  0  0  2  2  2  .  .  .  4* 4  . 
+ 0  1* 0  0  0  0  2  2  2  .  .  4  4  4  4 
+ .  1  1  .  .  .  2  2  2  .  4* 4  4  4  . 
+ .  1  1  1  .  .  2  2  2  .  4  4  4  .  . 
+ 1  1  1  1  1* 1  1  .  .  .  .  4  4  .  . 
+ .  1  1  1  1  1  5  5  5  .  3  3  4  .  . 
+ .  1  1  .  1  .  5  .  5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5* 5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  5  .  5  .  .* 3  3  3  . 
+Samurai 1.1@(12,4); hiding
+Samurai 1.1@(12,4); hiding
+Samurai 1.1@(12,4); hiding
+Samurai 1.1@(12,4); hiding
+Samurai 1.1@(12,4); hiding
+Samurai 1.1@(12,4); hiding
+### Turn: 34; Side: 1; Samurai: 2; Actions: 6 10 8 9
+Samurai 1.2 performs action: 6
+Samurai 1.2 moves from (7,11) to (8,11)
+Samurai 1.2 performs action: 10
+Samurai 1.2 performs action: 8
+Samurai 1.2 moves from (8,11) to (7,11)
+Samurai 1.2 performs action: 9
+
+ .  .  .  .  .  .  2  .  2  .  .  .  .  .  . 
+ .  .  0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  .  0  0  0  0  2  2  2  .  .  .  .  .  . 
+ 0  .  0  0  0  0  .  .  .  .  .  .  4  .  . 
+ 0  .  0  0  0  0  2  2  2  .  .  .  4* 4  . 
+ 0  1* 0  0  0  0  2  2  2  .  .  4  4  4  4 
+ .  1  1  .  .  .  2  2  2  .  4* 4  4  4  . 
+ .  1  1  1  .  .  2  2  2  .  4  4  4  .  . 
+ 1  1  1  1  1* 1  1  .  .  .  .  4  4  .  . 
+ .  1  1  1  1  1  5  5  5  .  3  3  4  .  . 
+ .  1  1  .  1  .  5  .  5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5* 5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  5  .  5  .  .* 3  3  3  . 
+Samurai 1.2@(7,11); hiding
+Samurai 1.2@(7,11); hiding
+Samurai 1.2@(7,11); hiding
+Samurai 1.2@(7,11); hiding
+Samurai 1.2@(7,11); hiding
+Samurai 1.2@(7,11); hiding
+### Turn: 35; Side: 0; Samurai: 2; Actions: 6 2
+Samurai 0.2 performs action: 6
+Samurai 0.2 moves from (10,6) to (11,6)
+Samurai 0.2 performs action: 2
+Section (10,7) occupied by 2
+Section (11,7) occupied by 2
+Section (12,7) occupied by 2
+Section (12,6) occupied by 2
+Section (10,5) occupied by 2
+Section (11,5) occupied by 2
+Section (12,5) occupied by 2
+
+ .  .  .  .  .  .  2  .  2  .  .  .  .  .  . 
+ .  .  0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  .  0  0  0  0  2  2  2  .  .  .  .  .  . 
+ 0  .  0  0  0  0  .  .  .  .  .  .  4  .  . 
+ 0  .  0  0  0  0  2  2  2  .  .  .  4* 4  . 
+ 0  1* 0  0  0  0  2  2  2  .  2  2  2  4  4 
+ .  1  1  .  .  .  2  2  2  .  4  4* 2  4  . 
+ .  1  1  1  .  .  2  2  2  .  2  2  2  .  . 
+ 1  1  1  1  1* 1  1  .  .  .  .  4  4  .  . 
+ .  1  1  1  1  1  5  5  5  .  3  3  4  .  . 
+ .  1  1  .  1  .  5  .  5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5* 5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  5  .  5  .  .* 3  3  3  . 
+Samurai 0.2@(11,6)
+Samurai 0.2@(11,6)
+Samurai 0.2@(11,6)
+Samurai 0.2@(11,6)
+Samurai 0.2@(11,6)
+Samurai 0.2@(11,6)
+### Turn: 36; Side: 0; Samurai: 0; Actions: 10 3 5
+Samurai 0.0 performs action: 10
+Samurai 0.0 performs action: 3
+Section (1,4) occupied by 0
+Section (1,3) occupied by 0
+Section (1,2) occupied by 0
+Section (1,1) occupied by 0
+Samurai 0.0 performs action: 5
+Samurai 0.0 moves from (1,5) to (1,6)
+
+ .  .  .  .  .  .  2  .  2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  0  0  0  0  0  2  2  2  .  .  .  .  .  . 
+ 0  0  0  0  0  0  .  .  .  .  .  .  4  .  . 
+ 0  0  0  0  0  0  2  2  2  .  .  .  4* 4  . 
+ 0  1  0  0  0  0  2  2  2  .  2  2  2  4  4 
+ .  1* 1  .  .  .  2  2  2  .  4  4* 2  4  . 
+ .  1  1  1  .  .  2  2  2  .  2  2  2  .  . 
+ 1  1  1  1  1* 1  1  .  .  .  .  4  4  .  . 
+ .  1  1  1  1  1  5  5  5  .  3  3  4  .  . 
+ .  1  1  .  1  .  5  .  5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5* 5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  5  .  5  .  .* 3  3  3  . 
+Samurai 0.0@(1,6)
+Samurai 0.0@(1,6)
+Samurai 0.0@(1,6)
+Samurai 0.0@(1,6)
+Samurai 0.0@(1,6)
+Samurai 0.0@(1,6)
+### Turn: 37; Side: 1; Samurai: 0; Actions: 4 7 9
+Samurai 1.0 performs action: 4
+Section (9,14) occupied by 3
+Section (8,14) occupied by 3
+Section (6,14) occupied by 3
+Samurai 1.0 performs action: 7
+Samurai 1.0 moves from (10,14) to (10,13)
+Samurai 1.0 performs action: 9
+
+ .  .  .  .  .  .  2  .  2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  0  0  0  0  0  2  2  2  .  .  .  .  .  . 
+ 0  0  0  0  0  0  .  .  .  .  .  .  4  .  . 
+ 0  0  0  0  0  0  2  2  2  .  .  .  4* 4  . 
+ 0  1  0  0  0  0  2  2  2  .  2  2  2  4  4 
+ .  1* 1  .  .  .  2  2  2  .  4  4* 2  4  . 
+ .  1  1  1  .  .  2  2  2  .  2  2  2  .  . 
+ 1  1  1  1  1* 1  1  .  .  .  .  4  4  .  . 
+ .  1  1  1  1  1  5  5  5  .  3  3  4  .  . 
+ .  1  1  .  1  .  5  .  5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5* 5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3* 3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 1.0@(10,13); hiding
+Samurai 1.0@(10,13); hiding
+Samurai 1.0@(10,13); hiding
+Samurai 1.0@(10,13); hiding
+Samurai 1.0@(10,13); hiding
+Samurai 1.0@(10,13); hiding
+### Turn: 38; Side: 1; Samurai: 1; Actions: 10 5 4
+Samurai 1.1 performs action: 10
+Samurai 1.1 performs action: 5
+Samurai 1.1 moves from (12,4) to (12,5)
+Samurai 1.1 performs action: 4
+Section (11,5) occupied by 4
+Section (10,5) occupied by 4
+Section (12,6) occupied by 4
+Samurai 0.2 injured
+Samurai 0.2 injured
+Section (11,6) occupied by 4
+Section (12,7) occupied by 4
+
+ .  .  .  .  .  .  2  .* 2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  0  0  0  0  0  2  2  2  .  .  .  .  .  . 
+ 0  0  0  0  0  0  .  .  .  .  .  .  4  .  . 
+ 0  0  0  0  0  0  2  2  2  .  .  .  4  4  . 
+ 0  1  0  0  0  0  2  2  2  .  4  4  2* 4  4 
+ .  1* 1  .  .  .  2  2  2  .  4  4  4  4  . 
+ .  1  1  1  .  .  2  2  2  .  2  2  4  .  . 
+ 1  1  1  1  1* 1  1  .  .  .  .  4  4  .  . 
+ .  1  1  1  1  1  5  5  5  .  3  3  4  .  . 
+ .  1  1  .  1  .  5  .  5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5* 5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3* 3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 1.1@(12,5)
+Samurai 1.1@(12,5)
+Samurai 1.1@(12,5)
+Samurai 1.1@(12,5)
+Samurai 1.1@(12,5)
+Samurai 1.1@(12,5)
+### Turn: 39; Side: 0; Samurai: 1; Actions:
+
+ .  .  .  .  .  .  2  .* 2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  0  0  0  0  0  2  2  2  .  .  .  .  .  . 
+ 0  0  0  0  0  0  .  .  .  .  .  .  4  .  . 
+ 0  0  0  0  0  0  2  2  2  .  .  .  4  4  . 
+ 0  1  0  0  0  0  2  2  2  .  4  4  2* 4  4 
+ .  1* 1  .  .  .  2  2  2  .  4  4  4  4  . 
+ .  1  1  1  .  .  2  2  2  .  2  2  4  .  . 
+ 1  1  1  1  1* 1  1  .  .  .  .  4  4  .  . 
+ .  1  1  1  1  1  5  5  5  .  3  3  4  .  . 
+ .  1  1  .  1  .  5  .  5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5* 5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3* 3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 0.1@(4,8); hiding
+Samurai 0.1@(4,8); hiding
+Samurai 0.1@(4,8); hiding
+Samurai 0.1@(4,8); hiding
+Samurai 0.1@(4,8); hiding
+Samurai 0.1@(4,8); hiding
+### Turn: 40; Side: 0; Samurai: 2; Actions:
+
+ .  .  .  .  .  .  2  .* 2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  0  0  0  0  0  2  2  2  .  .  .  .  .  . 
+ 0  0  0  0  0  0  .  .  .  .  .  .  4  .  . 
+ 0  0  0  0  0  0  2  2  2  .  .  .  4  4  . 
+ 0  1  0  0  0  0  2  2  2  .  4  4  2* 4  4 
+ .  1* 1  .  .  .  2  2  2  .  4  4  4  4  . 
+ .  1  1  1  .  .  2  2  2  .  2  2  4  .  . 
+ 1  1  1  1  1* 1  1  .  .  .  .  4  4  .  . 
+ .  1  1  1  1  1  5  5  5  .  3  3  4  .  . 
+ .  1  1  .  1  .  5  .  5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5* 5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3* 3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 0.2@(7,0); resting: 18
+Samurai 0.2@(7,0); resting: 18
+Samurai 0.2@(7,0); resting: 18
+Samurai 0.2@(7,0); resting: 18
+Samurai 0.2@(7,0); resting: 18
+Samurai 0.2@(7,0); resting: 18
+### Turn: 41; Side: 1; Samurai: 2; Actions: 5 10 7 9
+Samurai 1.2 performs action: 5
+Samurai 1.2 moves from (7,11) to (7,12)
+Samurai 1.2 performs action: 10
+Samurai 1.2 performs action: 7
+Samurai 1.2 moves from (7,12) to (7,11)
+Samurai 1.2 performs action: 9
+
+ .  .  .  .  .  .  2  .* 2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  0  0  0  0  0  2  2  2  .  .  .  .  .  . 
+ 0  0  0  0  0  0  .  .  .  .  .  .  4  .  . 
+ 0  0  0  0  0  0  2  2  2  .  .  .  4  4  . 
+ 0  1  0  0  0  0  2  2  2  .  4  4  2* 4  4 
+ .  1* 1  .  .  .  2  2  2  .  4  4  4  4  . 
+ .  1  1  1  .  .  2  2  2  .  2  2  4  .  . 
+ 1  1  1  1  1* 1  1  .  .  .  .  4  4  .  . 
+ .  1  1  1  1  1  5  5  5  .  3  3  4  .  . 
+ .  1  1  .  1  .  5  .  5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5* 5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3* 3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 1.2@(7,11); hiding
+Samurai 1.2@(7,11); hiding
+Samurai 1.2@(7,11); hiding
+Samurai 1.2@(7,11); hiding
+Samurai 1.2@(7,11); hiding
+Samurai 1.2@(7,11); hiding
+### Turn: 42; Side: 1; Samurai: 0; Actions: 8 8 7
+Samurai 1.0 performs action: 8
+Samurai 1.0 moves from (10,13) to (9,13)
+Samurai 1.0 performs action: 8
+Samurai 1.0 moves from (9,13) to (8,13)
+Samurai 1.0 performs action: 7
+Samurai 1.0 moves from (8,13) to (8,12)
+
+ .  .  .  .  .  .  2  .* 2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  0  0  0  0  0  2  2  2  .  .  .  .  .  . 
+ 0  0  0  0  0  0  .  .  .  .  .  .  4  .  . 
+ 0  0  0  0  0  0  2  2  2  .  .  .  4  4  . 
+ 0  1  0  0  0  0  2  2  2  .  4  4  2* 4  4 
+ .  1* 1  .  .  .  2  2  2  .  4  4  4  4  . 
+ .  1  1  1  .  .  2  2  2  .  2  2  4  .  . 
+ 1  1  1  1  1* 1  1  .  .  .  .  4  4  .  . 
+ .  1  1  1  1  1  5  5  5  .  3  3  4  .  . 
+ .  1  1  .  1  .  5  .  5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5* 5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5* .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 1.0@(8,12); hiding
+Samurai 1.0@(8,12); hiding
+Samurai 1.0@(8,12); hiding
+Samurai 1.0@(8,12); hiding
+Samurai 1.0@(8,12); hiding
+Samurai 1.0@(8,12); hiding
+### Turn: 43; Side: 0; Samurai: 0; Actions: 6 2 9
+Samurai 0.0 performs action: 6
+Samurai 0.0 moves from (1,6) to (2,6)
+Samurai 0.0 performs action: 2
+Section (3,6) occupied by 0
+Section (4,6) occupied by 0
+Section (5,6) occupied by 0
+Section (6,6) occupied by 0
+Samurai 0.0 performs action: 9
+
+ .  .  .  .  .  .  2  .* 2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  0  0  0  0  0  2  2  2  .  .  .  .  .  . 
+ 0  0  0  0  0  0  .  .  .  .  .  .  4  .  . 
+ 0  0  0  0  0  0  2  2  2  .  .  .  4  4  . 
+ 0  1  0  0  0  0  2  2  2  .  4  4  2* 4  4 
+ .  1  1* 0  0  0  0  2  2  .  4  4  4  4  . 
+ .  1  1  1  .  .  2  2  2  .  2  2  4  .  . 
+ 1  1  1  1  1* 1  1  .  .  .  .  4  4  .  . 
+ .  1  1  1  1  1  5  5  5  .  3  3  4  .  . 
+ .  1  1  .  1  .  5  .  5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5* 5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5* .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 0.0@(2,6); hiding
+Samurai 0.0@(2,6); hiding
+Samurai 0.0@(2,6); hiding
+Samurai 0.0@(2,6); hiding
+Samurai 0.0@(2,6); hiding
+Samurai 0.0@(2,6); hiding
+### Turn: 44; Side: 0; Samurai: 1; Actions:
+
+ .  .  .  .  .  .  2  .* 2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  0  0  0  0  0  2  2  2  .  .  .  .  .  . 
+ 0  0  0  0  0  0  .  .  .  .  .  .  4  .  . 
+ 0  0  0  0  0  0  2  2  2  .  .  .  4  4  . 
+ 0  1  0  0  0  0  2  2  2  .  4  4  2* 4  4 
+ .  1  1* 0  0  0  0  2  2  .  4  4  4  4  . 
+ .  1  1  1  .  .  2  2  2  .  2  2  4  .  . 
+ 1  1  1  1  1* 1  1  .  .  .  .  4  4  .  . 
+ .  1  1  1  1  1  5  5  5  .  3  3  4  .  . 
+ .  1  1  .  1  .  5  .  5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5* 5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5* .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 0.1@(4,8); hiding
+Samurai 0.1@(4,8); hiding
+Samurai 0.1@(4,8); hiding
+Samurai 0.1@(4,8); hiding
+Samurai 0.1@(4,8); hiding
+Samurai 0.1@(4,8); hiding
+### Turn: 45; Side: 1; Samurai: 1; Actions: 5 6 7 9
+Samurai 1.1 performs action: 5
+Samurai 1.1 moves from (12,5) to (12,6)
+Samurai 1.1 performs action: 6
+Samurai 1.1 moves from (12,6) to (13,6)
+Samurai 1.1 performs action: 7
+Samurai 1.1 moves from (13,6) to (13,5)
+Samurai 1.1 performs action: 9
+
+ .  .  .  .  .  .  2  .* 2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  0  0  0  0  0  2  2  2  .  .  .  .  .  . 
+ 0  0  0  0  0  0  .  .  .  .  .  .  4  .  . 
+ 0  0  0  0  0  0  2  2  2  .  .  .  4  4  . 
+ 0  1  0  0  0  0  2  2  2  .  4  4  2  4* 4 
+ .  1  1* 0  0  0  0  2  2  .  4  4  4  4  . 
+ .  1  1  1  .  .  2  2  2  .  2  2  4  .  . 
+ 1  1  1  1  1* 1  1  .  .  .  .  4  4  .  . 
+ .  1  1  1  1  1  5  5  5  .  3  3  4  .  . 
+ .  1  1  .  1  .  5  .  5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5* 5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5* .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 1.1@(13,5); hiding
+Samurai 1.1@(13,5); hiding
+Samurai 1.1@(13,5); hiding
+Samurai 1.1@(13,5); hiding
+Samurai 1.1@(13,5); hiding
+Samurai 1.1@(13,5); hiding
+### Turn: 46; Side: 1; Samurai: 2; Actions: 6
+Samurai 1.2 performs action: 6
+Samurai 1.2 moves from (7,11) to (8,11)
+
+ .  .  .  .  .  .  2  .* 2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  0  0  0  0  0  2  2  2  .  .  .  .  .  . 
+ 0  0  0  0  0  0  .  .  .  .  .  .  4  .  . 
+ 0  0  0  0  0  0  2  2  2  .  .  .  4  4  . 
+ 0  1  0  0  0  0  2  2  2  .  4  4  2  4* 4 
+ .  1  1* 0  0  0  0  2  2  .  4  4  4  4  . 
+ .  1  1  1  .  .  2  2  2  .  2  2  4  .  . 
+ 1  1  1  1  1* 1  1  .  .  .  .  4  4  .  . 
+ .  1  1  1  1  1  5  5  5  .  3  3  4  .  . 
+ .  1  1  .  1  .  5  .  5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5* .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5* .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 1.2@(8,11); hiding
+Samurai 1.2@(8,11); hiding
+Samurai 1.2@(8,11); hiding
+Samurai 1.2@(8,11); hiding
+Samurai 1.2@(8,11); hiding
+Samurai 1.2@(8,11); hiding
+### Turn: 47; Side: 0; Samurai: 2; Actions:
+
+ .  .  .  .  .  .  2  .* 2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  0  0  0  0  0  2  2  2  .  .  .  .  .  . 
+ 0  0  0  0  0  0  .  .  .  .  .  .  4  .  . 
+ 0  0  0  0  0  0  2  2  2  .  .  .  4  4  . 
+ 0  1  0  0  0  0  2  2  2  .  4  4  2  4* 4 
+ .  1  1* 0  0  0  0  2  2  .  4  4  4  4  . 
+ .  1  1  1  .  .  2  2  2  .  2  2  4  .  . 
+ 1  1  1  1  1* 1  1  .  .  .  .  4  4  .  . 
+ .  1  1  1  1  1  5  5  5  .  3  3  4  .  . 
+ .  1  1  .  1  .  5  .  5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5* .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5* .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 0.2@(7,0); resting: 11
+Samurai 0.2@(7,0); resting: 11
+Samurai 0.2@(7,0); resting: 11
+Samurai 0.2@(7,0); resting: 11
+Samurai 0.2@(7,0); resting: 11
+Samurai 0.2@(7,0); resting: 11
+### Turn: 48; Side: 0; Samurai: 0; Actions: 10 6 6 6
+Samurai 0.0 performs action: 10
+Samurai 0.0 performs action: 6
+Samurai 0.0 moves from (2,6) to (3,6)
+Samurai 0.0 performs action: 6
+Samurai 0.0 moves from (3,6) to (4,6)
+Samurai 0.0 performs action: 6
+Samurai 0.0 moves from (4,6) to (5,6)
+
+ .  .  .  .  .  .  2  .* 2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  0  0  0  0  0  2  2  2  .  .  .  .  .  . 
+ 0  0  0  0  0  0  .  .  .  .  .  .  4  .  . 
+ 0  0  0  0  0  0  2  2  2  .  .  .  4  4  . 
+ 0  1  0  0  0  0  2  2  2  .  4  4  2  4* 4 
+ .  1  1  0  0  0* 0  2  2  .  4  4  4  4  . 
+ .  1  1  1  .  .  2  2  2  .  2  2  4  .  . 
+ 1  1  1  1  1* 1  1  .  .  .  .  4  4  .  . 
+ .  1  1  1  1  1  5  5  5  .  3  3  4  .  . 
+ .  1  1  .  1  .  5  .  5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5* .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5* .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 0.0@(5,6)
+Samurai 0.0@(5,6)
+Samurai 0.0@(5,6)
+Samurai 0.0@(5,6)
+Samurai 0.0@(5,6)
+Samurai 0.0@(5,6)
+### Turn: 49; Side: 1; Samurai: 0; Actions: 10 6 3
+Samurai 1.0 performs action: 10
+Samurai 1.0 performs action: 6
+Samurai 1.0 moves from (8,12) to (9,12)
+Samurai 1.0 performs action: 3
+Section (9,11) occupied by 3
+Section (9,10) occupied by 3
+Section (9,9) occupied by 3
+Section (9,8) occupied by 3
+
+ .  .  .  .  .  .  2  .* 2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  0  0  0  0  0  2  2  2  .  .  .  .  .  . 
+ 0  0  0  0  0  0  .  .  .  .  .  .  4  .  . 
+ 0  0  0  0  0  0  2  2  2  .  .  .  4  4  . 
+ 0  1  0  0  0  0  2  2  2  .  4  4  2  4* 4 
+ .  1  1  0  0  0* 0  2  2  .  4  4  4  4  . 
+ .  1  1  1  .  .  2  2  2  .  2  2  4  .  . 
+ 1  1  1  1  1* 1  1  .  .  3  .  4  4  .  . 
+ .  1  1  1  1  1  5  5  5  3  3  3  4  .  . 
+ .  1  1  .  1  .  5  .  5  3  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5* 3  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  .* 3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 1.0@(9,12)
+Samurai 1.0@(9,12)
+Samurai 1.0@(9,12)
+Samurai 1.0@(9,12)
+Samurai 1.0@(9,12)
+Samurai 1.0@(9,12)
+### Turn: 50; Side: 1; Samurai: 1; Actions: 10 9 7
+Samurai 1.1 performs action: 10
+Samurai 1.1 performs action: 9
+Samurai 1.1 performs action: 7
+Samurai 1.1 moves from (13,5) to (13,4)
+
+ .  .  .  .  .  .  2  .* 2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  0  0  0  0  0  2  2  2  .  .  .  .  .  . 
+ 0  0  0  0  0  0  .  .  .  .  .  .  4  .  . 
+ 0  0  0  0  0  0  2  2  2  .  .  .  4  4* . 
+ 0  1  0  0  0  0  2  2  2  .  4  4  2  4  4 
+ .  1  1  0  0  0* 0  2  2  .  4  4  4  4  . 
+ .  1  1  1  .  .  2  2  2  .  2  2  4  .  . 
+ 1  1  1  1  1* 1  1  .  .  3  .  4  4  .  . 
+ .  1  1  1  1  1  5  5  5  3  3  3  4  .  . 
+ .  1  1  .  1  .  5  .  5  3  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5* 3  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  .* 3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 1.1@(13,4); hiding
+Samurai 1.1@(13,4); hiding
+Samurai 1.1@(13,4); hiding
+Samurai 1.1@(13,4); hiding
+Samurai 1.1@(13,4); hiding
+Samurai 1.1@(13,4); hiding
+### Turn: 51; Side: 0; Samurai: 1; Actions:
+
+ .  .  .  .  .  .  2  .* 2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  0  0  0  0  0  2  2  2  .  .  .  .  .  . 
+ 0  0  0  0  0  0  .  .  .  .  .  .  4  .  . 
+ 0  0  0  0  0  0  2  2  2  .  .  .  4  4* . 
+ 0  1  0  0  0  0  2  2  2  .  4  4  2  4  4 
+ .  1  1  0  0  0* 0  2  2  .  4  4  4  4  . 
+ .  1  1  1  .  .  2  2  2  .  2  2  4  .  . 
+ 1  1  1  1  1* 1  1  .  .  3  .  4  4  .  . 
+ .  1  1  1  1  1  5  5  5  3  3  3  4  .  . 
+ .  1  1  .  1  .  5  .  5  3  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5* 3  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  .* 3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 0.1@(4,8); hiding
+Samurai 0.1@(4,8); hiding
+Samurai 0.1@(4,8); hiding
+Samurai 0.1@(4,8); hiding
+Samurai 0.1@(4,8); hiding
+Samurai 0.1@(4,8); hiding
+### Turn: 52; Side: 0; Samurai: 2; Actions:
+
+ .  .  .  .  .  .  2  .* 2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  0  0  0  0  0  2  2  2  .  .  .  .  .  . 
+ 0  0  0  0  0  0  .  .  .  .  .  .  4  .  . 
+ 0  0  0  0  0  0  2  2  2  .  .  .  4  4* . 
+ 0  1  0  0  0  0  2  2  2  .  4  4  2  4  4 
+ .  1  1  0  0  0* 0  2  2  .  4  4  4  4  . 
+ .  1  1  1  .  .  2  2  2  .  2  2  4  .  . 
+ 1  1  1  1  1* 1  1  .  .  3  .  4  4  .  . 
+ .  1  1  1  1  1  5  5  5  3  3  3  4  .  . 
+ .  1  1  .  1  .  5  .  5  3  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5* 3  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  .* 3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 0.2@(7,0); resting: 6
+Samurai 0.2@(7,0); resting: 6
+Samurai 0.2@(7,0); resting: 6
+Samurai 0.2@(7,0); resting: 6
+Samurai 0.2@(7,0); resting: 6
+Samurai 0.2@(7,0); resting: 6
+### Turn: 53; Side: 1; Samurai: 2; Actions: 5 8
+Samurai 1.2 performs action: 5
+Samurai 1.2 moves from (8,11) to (8,12)
+Samurai 1.2 performs action: 8
+Samurai 1.2 moves from (8,12) to (7,12)
+
+ .  .  .  .  .  .  2  .* 2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  0  0  0  0  0  2  2  2  .  .  .  .  .  . 
+ 0  0  0  0  0  0  .  .  .  .  .  .  4  .  . 
+ 0  0  0  0  0  0  2  2  2  .  .  .  4  4* . 
+ 0  1  0  0  0  0  2  2  2  .  4  4  2  4  4 
+ .  1  1  0  0  0* 0  2  2  .  4  4  4  4  . 
+ .  1  1  1  .  .  2  2  2  .  2  2  4  .  . 
+ 1  1  1  1  1* 1  1  .  .  3  .  4  4  .  . 
+ .  1  1  1  1  1  5  5  5  3  3  3  4  .  . 
+ .  1  1  .  1  .  5  .  5  3  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3  3  .  3  3 
+ .  .  .  .  .  .  5  5* 5  .* 3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 1.2@(7,12); hiding
+Samurai 1.2@(7,12); hiding
+Samurai 1.2@(7,12); hiding
+Samurai 1.2@(7,12); hiding
+Samurai 1.2@(7,12); hiding
+Samurai 1.2@(7,12); hiding
+### Turn: 54; Side: 1; Samurai: 0; Actions: 7 7 7 9
+Samurai 1.0 performs action: 7
+Samurai 1.0 moves from (9,12) to (9,11)
+Samurai 1.0 performs action: 7
+Samurai 1.0 moves from (9,11) to (9,10)
+Samurai 1.0 performs action: 7
+Samurai 1.0 moves from (9,10) to (9,9)
+Samurai 1.0 performs action: 9
+
+ .  .  .  .  .  .  2  .* 2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  0  0  0  0  0  2  2  2  .  .  .  .  .  . 
+ 0  0  0  0  0  0  .  .  .  .  .  .  4  .  . 
+ 0  0  0  0  0  0  2  2  2  .  .  .  4  4* . 
+ 0  1  0  0  0  0  2  2  2  .  4  4  2  4  4 
+ .  1  1  0  0  0* 0  2  2  .  4  4  4  4  . 
+ .  1  1  1  .  .  2  2  2  .  2  2  4  .  . 
+ 1  1  1  1  1* 1  1  .  .  3  .  4  4  .  . 
+ .  1  1  1  1  1  5  5  5  3* 3  3  4  .  . 
+ .  1  1  .  1  .  5  .  5  3  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3  3  .  3  3 
+ .  .  .  .  .  .  5  5* 5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 1.0@(9,9); hiding
+Samurai 1.0@(9,9); hiding
+Samurai 1.0@(9,9); hiding
+Samurai 1.0@(9,9); hiding
+Samurai 1.0@(9,9); hiding
+Samurai 1.0@(9,9); hiding
+### Turn: 55; Side: 0; Samurai: 0; Actions: 6 1 9
+Samurai 0.0 performs action: 6
+Samurai 0.0 moves from (5,6) to (6,6)
+Samurai 0.0 performs action: 1
+Section (6,7) occupied by 0
+Section (6,8) occupied by 0
+Section (6,9) occupied by 0
+Section (6,10) occupied by 0
+Samurai 0.0 performs action: 9
+
+ .  .  .  .  .  .  2  .* 2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  0  0  0  0  0  2  2  2  .  .  .  .  .  . 
+ 0  0  0  0  0  0  .  .  .  .  .  .  4  .  . 
+ 0  0  0  0  0  0  2  2  2  .  .  .  4  4* . 
+ 0  1  0  0  0  0  2  2  2  .  4  4  2  4  4 
+ .  1  1  0  0  0  0* 2  2  .  4  4  4  4  . 
+ .  1  1  1  .  .  0  2  2  .  2  2  4  .  . 
+ 1  1  1  1  1* 1  0  .  .  3  .  4  4  .  . 
+ .  1  1  1  1  1  0  5  5  3* 3  3  4  .  . 
+ .  1  1  .  1  .  0  .  5  3  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3  3  .  3  3 
+ .  .  .  .  .  .  5  5* 5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 0.0@(6,6); hiding
+Samurai 0.0@(6,6); hiding
+Samurai 0.0@(6,6); hiding
+Samurai 0.0@(6,6); hiding
+Samurai 0.0@(6,6); hiding
+Samurai 0.0@(6,6); hiding
+### Turn: 56; Side: 0; Samurai: 1; Actions: 5 5
+Samurai 0.1 performs action: 5
+Samurai 0.1 moves from (4,8) to (4,9)
+Samurai 0.1 performs action: 5
+Samurai 0.1 moves from (4,9) to (4,10)
+
+ .  .  .  .  .  .  2  .* 2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  0  0  0  0  0  2  2  2  .  .  .  .  .  . 
+ 0  0  0  0  0  0  .  .  .  .  .  .  4  .  . 
+ 0  0  0  0  0  0  2  2  2  .  .  .  4  4* . 
+ 0  1  0  0  0  0  2  2  2  .  4  4  2  4  4 
+ .  1  1  0  0  0  0* 2  2  .  4  4  4  4  . 
+ .  1  1  1  .  .  0  2  2  .  2  2  4  .  . 
+ 1  1  1  1  1  1  0  .  .  3  .  4  4  .  . 
+ .  1  1  1  1  1  0  5  5  3* 3  3  4  .  . 
+ .  1  1  .  1* .  0  .  5  3  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3  3  .  3  3 
+ .  .  .  .  .  .  5  5* 5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 0.1@(4,10); hiding
+Samurai 0.1@(4,10); hiding
+Samurai 0.1@(4,10); hiding
+Samurai 0.1@(4,10); hiding
+Samurai 0.1@(4,10); hiding
+Samurai 0.1@(4,10); hiding
+### Turn: 57; Side: 1; Samurai: 1; Actions: 10 2 8
+Samurai 1.1 performs action: 10
+Samurai 1.1 performs action: 2
+Section (14,4) occupied by 4
+Section (13,3) occupied by 4
+Section (14,3) occupied by 4
+Section (13,2) occupied by 4
+Samurai 1.1 performs action: 8
+Samurai 1.1 moves from (13,4) to (12,4)
+
+ .  .  .  .  .  .  2  .* 2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  0  0  0  0  0  2  2  2  .  .  .  .  4  . 
+ 0  0  0  0  0  0  .  .  .  .  .  .  4  4  4 
+ 0  0  0  0  0  0  2  2  2  .  .  .  4* 4  4 
+ 0  1  0  0  0  0  2  2  2  .  4  4  2  4  4 
+ .  1  1  0  0  0  0* 2  2  .  4  4  4  4  . 
+ .  1  1  1  .  .  0  2  2  .  2  2  4  .  . 
+ 1  1  1  1  1  1  0  .  .  3  .  4  4  .  . 
+ .  1  1  1  1  1  0  5  5  3* 3  3  4  .  . 
+ .  1  1  .  1* .  0  .  5  3  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3  3  .  3  3 
+ .  .  .  .  .  .  5  5* 5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 1.1@(12,4)
+Samurai 1.1@(12,4)
+Samurai 1.1@(12,4)
+Samurai 1.1@(12,4)
+Samurai 1.1@(12,4)
+Samurai 1.1@(12,4)
+### Turn: 58; Side: 1; Samurai: 2; Actions: 10 8 9
+Samurai 1.2 performs action: 10
+Samurai 1.2 performs action: 8
+Samurai 1.2 moves from (7,12) to (6,12)
+Samurai 1.2 performs action: 9
+
+ .  .  .  .  .  .  2  .* 2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  0  0  0  0  0  2  2  2  .  .  .  .  4  . 
+ 0  0  0  0  0  0  .  .  .  .  .  .  4  4  4 
+ 0  0  0  0  0  0  2  2  2  .  .  .  4* 4  4 
+ 0  1  0  0  0  0  2  2  2  .  4  4  2  4  4 
+ .  1  1  0  0  0  0* 2  2  .  4  4  4  4  . 
+ .  1  1  1  .  .  0  2  2  .  2  2  4  .  . 
+ 1  1  1  1  1  1  0  .  .  3  .  4  4  .  . 
+ .  1  1  1  1  1  0  5  5  3* 3  3  4  .  . 
+ .  1  1  .  1* .  0  .  5  3  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3  3  .  3  3 
+ .  .  .  .  .  .  5* 5  5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 1.2@(6,12); hiding
+Samurai 1.2@(6,12); hiding
+Samurai 1.2@(6,12); hiding
+Samurai 1.2@(6,12); hiding
+Samurai 1.2@(6,12); hiding
+Samurai 1.2@(6,12); hiding
+### Turn: 59; Side: 0; Samurai: 2; Actions: 5 5 9 6
+Samurai 0.2 performs action: 5
+Samurai 0.2 moves from (7,0) to (7,1)
+Samurai 0.2 performs action: 5
+Samurai 0.2 moves from (7,1) to (7,2)
+Samurai 0.2 performs action: 9
+Samurai 0.2 performs action: 6
+Samurai 0.2 moves from (7,2) to (8,2)
+
+ .  .  .  .  .  .  2  .  2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  0  0  0  0  0  2  2  2* .  .  .  .  4  . 
+ 0  0  0  0  0  0  .  .  .  .  .  .  4  4  4 
+ 0  0  0  0  0  0  2  2  2  .  .  .  4* 4  4 
+ 0  1  0  0  0  0  2  2  2  .  4  4  2  4  4 
+ .  1  1  0  0  0  0* 2  2  .  4  4  4  4  . 
+ .  1  1  1  .  .  0  2  2  .  2  2  4  .  . 
+ 1  1  1  1  1  1  0  .  .  3  .  4  4  .  . 
+ .  1  1  1  1  1  0  5  5  3* 3  3  4  .  . 
+ .  1  1  .  1* .  0  .  5  3  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3  3  .  3  3 
+ .  .  .  .  .  .  5* 5  5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 0.2@(8,2); hiding
+Samurai 0.2@(8,2); hiding
+Samurai 0.2@(8,2); hiding
+Samurai 0.2@(8,2); hiding
+Samurai 0.2@(8,2); hiding
+Samurai 0.2@(8,2); hiding
+### Turn: 60; Side: 0; Samurai: 0; Actions: 10 6 2
+Samurai 0.0 performs action: 10
+Samurai 0.0 performs action: 6
+Samurai 0.0 moves from (6,6) to (7,6)
+Samurai 0.0 performs action: 2
+Section (8,6) occupied by 0
+Section (9,6) occupied by 0
+Section (10,6) occupied by 0
+Section (11,6) occupied by 0
+
+ .  .  .  .  .  .  2  .  2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  0  0  0  0  0  2  2  2* .  .  .  .  4  . 
+ 0  0  0  0  0  0  .  .  .  .  .  .  4  4  4 
+ 0  0  0  0  0  0  2  2  2  .  .  .  4* 4  4 
+ 0  1  0  0  0  0  2  2  2  .  4  4  2  4  4 
+ .  1  1  0  0  0  0  2* 0  0  0  0  4  4  . 
+ .  1  1  1  .  .  0  2  2  .  2  2  4  .  . 
+ 1  1  1  1  1  1  0  .  .  3  .  4  4  .  . 
+ .  1  1  1  1  1  0  5  5  3* 3  3  4  .  . 
+ .  1  1  .  1* .  0  .  5  3  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3  3  .  3  3 
+ .  .  .  .  .  .  5* 5  5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 0.0@(7,6)
+Samurai 0.0@(7,6)
+Samurai 0.0@(7,6)
+Samurai 0.0@(7,6)
+Samurai 0.0@(7,6)
+Samurai 0.0@(7,6)
+### Turn: 61; Side: 1; Samurai: 0; Actions: 5 8
+Samurai 1.0 performs action: 5
+Samurai 1.0 moves from (9,9) to (9,10)
+Samurai 1.0 performs action: 8
+Samurai 1.0 moves from (9,10) to (8,10)
+
+ .  .  .  .  .  .  2  .  2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  0  0  0  0  0  2  2  2* .  .  .  .  4  . 
+ 0  0  0  0  0  0  .  .  .  .  .  .  4  4  4 
+ 0  0  0  0  0  0  2  2  2  .  .  .  4* 4  4 
+ 0  1  0  0  0  0  2  2  2  .  4  4  2  4  4 
+ .  1  1  0  0  0  0  2* 0  0  0  0  4  4  . 
+ .  1  1  1  .  .  0  2  2  .  2  2  4  .  . 
+ 1  1  1  1  1  1  0  .  .  3  .  4  4  .  . 
+ .  1  1  1  1  1  0  5  5  3  3  3  4  .  . 
+ .  1  1  .  1* .  0  .  5* 3  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3  3  .  3  3 
+ .  .  .  .  .  .  5* 5  5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 1.0@(8,10); hiding
+Samurai 1.0@(8,10); hiding
+Samurai 1.0@(8,10); hiding
+Samurai 1.0@(8,10); hiding
+Samurai 1.0@(8,10); hiding
+Samurai 1.0@(8,10); hiding
+### Turn: 62; Side: 1; Samurai: 1; Actions: 7 4 9
+Samurai 1.1 performs action: 7
+Samurai 1.1 moves from (12,4) to (12,3)
+Samurai 1.1 performs action: 4
+Section (11,3) occupied by 4
+Section (10,3) occupied by 4
+Section (12,4) occupied by 4
+Section (11,4) occupied by 4
+Section (12,5) occupied by 4
+Samurai 1.1 performs action: 9
+
+ .  .  .  .  .  .  2  .  2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  0  0  0  0  0  2  2  2* .  .  .  .  4  . 
+ 0  0  0  0  0  0  .  .  .  .  4  4  4* 4  4 
+ 0  0  0  0  0  0  2  2  2  .  .  4  4  4  4 
+ 0  1  0  0  0  0  2  2  2  .  4  4  4  4  4 
+ .  1  1  0  0  0  0  2* 0  0  0  0  4  4  . 
+ .  1  1  1  .  .  0  2  2  .  2  2  4  .  . 
+ 1  1  1  1  1  1  0  .  .  3  .  4  4  .  . 
+ .  1  1  1  1  1  0  5  5  3  3  3  4  .  . 
+ .  1  1  .  1* .  0  .  5* 3  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3  3  .  3  3 
+ .  .  .  .  .  .  5* 5  5  .  3  3  .  3  3 
+ .  .  .  .  .  .  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 1.1@(12,3); hiding
+Samurai 1.1@(12,3); hiding
+Samurai 1.1@(12,3); hiding
+Samurai 1.1@(12,3); hiding
+Samurai 1.1@(12,3); hiding
+Samurai 1.1@(12,3); hiding
+### Turn: 63; Side: 0; Samurai: 1; Actions: 10 5 1
+Samurai 0.1 performs action: 10
+Samurai 0.1 performs action: 5
+Samurai 0.1 moves from (4,10) to (4,11)
+Samurai 0.1 performs action: 1
+Section (4,12) occupied by 1
+Section (4,13) occupied by 1
+Section (5,11) occupied by 1
+Section (5,12) occupied by 1
+Section (6,11) occupied by 1
+
+ .  .  .  .  .  .  2  .  2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  .  .  .  .  .  . 
+ 0  0  0  0  0  0  2  2  2* .  .  .  .  4  . 
+ 0  0  0  0  0  0  .  .  .  .  4  4  4* 4  4 
+ 0  0  0  0  0  0  2  2  2  .  .  4  4  4  4 
+ 0  1  0  0  0  0  2  2  2  .  4  4  4  4  4 
+ .  1  1  0  0  0  0  2* 0  0  0  0  4  4  . 
+ .  1  1  1  .  .  0  2  2  .  2  2  4  .  . 
+ 1  1  1  1  1  1  0  .  .  3  .  4  4  .  . 
+ .  1  1  1  1  1  0  5  5  3  3  3  4  .  . 
+ .  1  1  .  1  .  0  .  5* 3  3  3  .  3  3 
+ .  .  .  .  .* 1  1  5  5  3  3  3  .  3  3 
+ .  .  .  .  1  1  5* 5  5  .  3  3  .  3  3 
+ .  .  .  .  1  .  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 0.1@(4,11)
+Samurai 0.1@(4,11)
+Samurai 0.1@(4,11)
+Samurai 0.1@(4,11)
+Samurai 0.1@(4,11)
+Samurai 0.1@(4,11)
+### Turn: 64; Side: 0; Samurai: 2; Actions: 10 6 2
+Samurai 0.2 performs action: 10
+Samurai 0.2 performs action: 6
+Samurai 0.2 moves from (8,2) to (9,2)
+Samurai 0.2 performs action: 2
+Section (8,3) occupied by 2
+Section (9,3) occupied by 2
+Section (10,3) occupied by 2
+Section (10,2) occupied by 2
+Section (8,1) occupied by 2
+Section (9,1) occupied by 2
+Section (10,1) occupied by 2
+
+ .  .  .  .  .  .  2  .  2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  2  2  .  .  .  . 
+ 0  0  0  0  0  0  2  2  2  .* 2  .  .  4  . 
+ 0  0  0  0  0  0  .  .  2  2  2  4  4* 4  4 
+ 0  0  0  0  0  0  2  2  2  .  .  4  4  4  4 
+ 0  1  0  0  0  0  2  2  2  .  4  4  4  4  4 
+ .  1  1  0  0  0  0  2* 0  0  0  0  4  4  . 
+ .  1  1  1  .  .  0  2  2  .  2  2  4  .  . 
+ 1  1  1  1  1  1  0  .  .  3  .  4  4  .  . 
+ .  1  1  1  1  1  0  5  5  3  3  3  4  .  . 
+ .  1  1  .  1  .  0  .  5* 3  3  3  .  3  3 
+ .  .  .  .  .* 1  1  5  5  3  3  3  .  3  3 
+ .  .  .  .  1  1  5* 5  5  .  3  3  .  3  3 
+ .  .  .  .  1  .  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 0.2@(9,2)
+Samurai 0.2@(9,2)
+Samurai 0.2@(9,2)
+Samurai 0.2@(9,2)
+Samurai 0.2@(9,2)
+Samurai 0.2@(9,2)
+### Turn: 65; Side: 1; Samurai: 2; Actions: 10 8 4
+Samurai 1.2 performs action: 10
+Samurai 1.2 performs action: 8
+Samurai 1.2 moves from (6,12) to (5,12)
+Samurai 1.2 performs action: 4
+Section (6,11) occupied by 5
+Section (5,11) occupied by 5
+Samurai 0.1 injured
+Samurai 0.1 injured
+Section (4,11) occupied by 5
+Section (4,12) occupied by 5
+Section (6,13) occupied by 5
+Section (5,13) occupied by 5
+Section (4,13) occupied by 5
+
+ .  .  .  .  .  .  2  .  2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  2  2  .  .  .  . 
+ 0  0  0  0  0  0  2  2  2  .* 2  .  .  4  . 
+ 0  0  0  0  0  0  .  .  2  2  2  4  4* 4  4 
+ 0  0  0  0  0  0  2  2  2  .  .  4  4  4  4 
+ 0  1  0  0  0  0  2  2  2  .  4  4  4  4  4 
+ .  1  1  0  0  0  0  2* 0  0  0  0  4  4  . 
+ .* 1  1  1  .  .  0  2  2  .  2  2  4  .  . 
+ 1  1  1  1  1  1  0  .  .  3  .  4  4  .  . 
+ .  1  1  1  1  1  0  5  5  3  3  3  4  .  . 
+ .  1  1  .  1  .  0  .  5* 3  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  .  3  3 
+ .  .  .  .  5  1* 5  5  5  .  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 1.2@(5,12)
+Samurai 1.2@(5,12)
+Samurai 1.2@(5,12)
+Samurai 1.2@(5,12)
+Samurai 1.2@(5,12)
+Samurai 1.2@(5,12)
+### Turn: 66; Side: 1; Samurai: 0; Actions: 10 8 3
+Samurai 1.0 performs action: 10
+Samurai 1.0 performs action: 8
+Samurai 1.0 moves from (8,10) to (7,10)
+Samurai 1.0 performs action: 3
+Section (7,9) occupied by 3
+Section (7,8) occupied by 3
+Section (7,7) occupied by 3
+Samurai 0.0 injured
+Samurai 0.0 injured
+Section (7,6) occupied by 3
+
+ .* .  .  .  .  .  2  .  2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  2  2  .  .  .  . 
+ 0  0  0  0  0  0  2  2  2  .* 2  .  .  4  . 
+ 0  0  0  0  0  0  .  .  2  2  2  4  4* 4  4 
+ 0  0  0  0  0  0  2  2  2  .  .  4  4  4  4 
+ 0  1  0  0  0  0  2  2  2  .  4  4  4  4  4 
+ .  1  1  0  0  0  0  3  0  0  0  0  4  4  . 
+ .* 1  1  1  .  .  0  3  2  .  2  2  4  .  . 
+ 1  1  1  1  1  1  0  3  .  3  .  4  4  .  . 
+ .  1  1  1  1  1  0  3  5  3  3  3  4  .  . 
+ .  1  1  .  1  .  0  .* 5  3  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  .  3  3 
+ .  .  .  .  5  1* 5  5  5  .  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 1.0@(7,10)
+Samurai 1.0@(7,10)
+Samurai 1.0@(7,10)
+Samurai 1.0@(7,10)
+Samurai 1.0@(7,10)
+Samurai 1.0@(7,10)
+### Turn: 67; Side: 0; Samurai: 0; Actions:
+
+ .* .  .  .  .  .  2  .  2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  2  2  .  .  .  . 
+ 0  0  0  0  0  0  2  2  2  .* 2  .  .  4  . 
+ 0  0  0  0  0  0  .  .  2  2  2  4  4* 4  4 
+ 0  0  0  0  0  0  2  2  2  .  .  4  4  4  4 
+ 0  1  0  0  0  0  2  2  2  .  4  4  4  4  4 
+ .  1  1  0  0  0  0  3  0  0  0  0  4  4  . 
+ .* 1  1  1  .  .  0  3  2  .  2  2  4  .  . 
+ 1  1  1  1  1  1  0  3  .  3  .  4  4  .  . 
+ .  1  1  1  1  1  0  3  5  3  3  3  4  .  . 
+ .  1  1  .  1  .  0  .* 5  3  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  .  3  3 
+ .  .  .  .  5  1* 5  5  5  .  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 0.0@(0,0); resting: 19
+Samurai 0.0@(0,0); resting: 19
+Samurai 0.0@(0,0); resting: 19
+Samurai 0.0@(0,0); resting: 19
+Samurai 0.0@(0,0); resting: 19
+Samurai 0.0@(0,0); resting: 19
+### Turn: 68; Side: 0; Samurai: 1; Actions:
+
+ .* .  .  .  .  .  2  .  2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  2  2  .  .  .  . 
+ 0  0  0  0  0  0  2  2  2  .* 2  .  .  4  . 
+ 0  0  0  0  0  0  .  .  2  2  2  4  4* 4  4 
+ 0  0  0  0  0  0  2  2  2  .  .  4  4  4  4 
+ 0  1  0  0  0  0  2  2  2  .  4  4  4  4  4 
+ .  1  1  0  0  0  0  3  0  0  0  0  4  4  . 
+ .* 1  1  1  .  .  0  3  2  .  2  2  4  .  . 
+ 1  1  1  1  1  1  0  3  .  3  .  4  4  .  . 
+ .  1  1  1  1  1  0  3  5  3  3  3  4  .  . 
+ .  1  1  .  1  .  0  .* 5  3  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  .  3  3 
+ .  .  .  .  5  1* 5  5  5  .  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 0.1@(0,7); resting: 17
+Samurai 0.1@(0,7); resting: 17
+Samurai 0.1@(0,7); resting: 17
+Samurai 0.1@(0,7); resting: 17
+Samurai 0.1@(0,7); resting: 17
+Samurai 0.1@(0,7); resting: 17
+### Turn: 69; Side: 1; Samurai: 1; Actions: 5 10 8 9
+Samurai 1.1 performs action: 5
+Samurai 1.1 moves from (12,3) to (12,4)
+Samurai 1.1 performs action: 10
+Samurai 1.1 performs action: 8
+Samurai 1.1 moves from (12,4) to (11,4)
+Samurai 1.1 performs action: 9
+
+ .* .  .  .  .  .  2  .  2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  2  2  .  .  .  . 
+ 0  0  0  0  0  0  2  2  2  .* 2  .  .  4  . 
+ 0  0  0  0  0  0  .  .  2  2  2  4  4  4  4 
+ 0  0  0  0  0  0  2  2  2  .  .  4* 4  4  4 
+ 0  1  0  0  0  0  2  2  2  .  4  4  4  4  4 
+ .  1  1  0  0  0  0  3  0  0  0  0  4  4  . 
+ .* 1  1  1  .  .  0  3  2  .  2  2  4  .  . 
+ 1  1  1  1  1  1  0  3  .  3  .  4  4  .  . 
+ .  1  1  1  1  1  0  3  5  3  3  3  4  .  . 
+ .  1  1  .  1  .  0  .* 5  3  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  .  3  3 
+ .  .  .  .  5  1* 5  5  5  .  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 1.1@(11,4); hiding
+Samurai 1.1@(11,4); hiding
+Samurai 1.1@(11,4); hiding
+Samurai 1.1@(11,4); hiding
+Samurai 1.1@(11,4); hiding
+Samurai 1.1@(11,4); hiding
+### Turn: 70; Side: 1; Samurai: 2; Actions: 7 2 9
+Samurai 1.2 performs action: 7
+Samurai 1.2 moves from (5,12) to (5,11)
+Samurai 1.2 performs action: 2
+Section (4,12) occupied by 5
+Section (5,12) occupied by 5
+Section (6,12) occupied by 5
+Section (6,11) occupied by 5
+Section (4,10) occupied by 5
+Section (5,10) occupied by 5
+Section (6,10) occupied by 5
+Samurai 1.2 performs action: 9
+
+ .* .  .  .  .  .  2  .  2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  2  2  .  .  .  . 
+ 0  0  0  0  0  0  2  2  2  .* 2  .  .  4  . 
+ 0  0  0  0  0  0  .  .  2  2  2  4  4  4  4 
+ 0  0  0  0  0  0  2  2  2  .  .  4* 4  4  4 
+ 0  1  0  0  0  0  2  2  2  .  4  4  4  4  4 
+ .  1  1  0  0  0  0  3  0  0  0  0  4  4  . 
+ .* 1  1  1  .  .  0  3  2  .  2  2  4  .  . 
+ 1  1  1  1  1  1  0  3  .  3  .  4  4  .  . 
+ .  1  1  1  1  1  0  3  5  3  3  3  4  .  . 
+ .  1  1  .  5  5  5  .* 5  3  3  3  .  3  3 
+ .  .  .  .  5  5* 5  5  5  3  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  .  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 1.2@(5,11); hiding
+Samurai 1.2@(5,11); hiding
+Samurai 1.2@(5,11); hiding
+Samurai 1.2@(5,11); hiding
+Samurai 1.2@(5,11); hiding
+Samurai 1.2@(5,11); hiding
+### Turn: 71; Side: 0; Samurai: 2; Actions: 6 3 9
+Samurai 0.2 performs action: 6
+Samurai 0.2 moves from (9,2) to (10,2)
+Samurai 0.2 performs action: 3
+Section (11,3) occupied by 2
+Section (11,2) occupied by 2
+Section (11,1) occupied by 2
+Section (10,1) occupied by 2
+Section (9,3) occupied by 2
+Section (9,2) occupied by 2
+Section (9,1) occupied by 2
+Samurai 0.2 performs action: 9
+
+ .* .  .  .  .  .  2  .  2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  2  2  2  .  .  . 
+ 0  0  0  0  0  0  2  2  2  2  2* 2  .  4  . 
+ 0  0  0  0  0  0  .  .  2  2  2  2  4  4  4 
+ 0  0  0  0  0  0  2  2  2  .  .  4* 4  4  4 
+ 0  1  0  0  0  0  2  2  2  .  4  4  4  4  4 
+ .  1  1  0  0  0  0  3  0  0  0  0  4  4  . 
+ .* 1  1  1  .  .  0  3  2  .  2  2  4  .  . 
+ 1  1  1  1  1  1  0  3  .  3  .  4  4  .  . 
+ .  1  1  1  1  1  0  3  5  3  3  3  4  .  . 
+ .  1  1  .  5  5  5  .* 5  3  3  3  .  3  3 
+ .  .  .  .  5  5* 5  5  5  3  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  .  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 0.2@(10,2); hiding
+Samurai 0.2@(10,2); hiding
+Samurai 0.2@(10,2); hiding
+Samurai 0.2@(10,2); hiding
+Samurai 0.2@(10,2); hiding
+Samurai 0.2@(10,2); hiding
+### Turn: 72; Side: 0; Samurai: 0; Actions:
+
+ .* .  .  .  .  .  2  .  2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  2  2  2  .  .  . 
+ 0  0  0  0  0  0  2  2  2  2  2* 2  .  4  . 
+ 0  0  0  0  0  0  .  .  2  2  2  2  4  4  4 
+ 0  0  0  0  0  0  2  2  2  .  .  4* 4  4  4 
+ 0  1  0  0  0  0  2  2  2  .  4  4  4  4  4 
+ .  1  1  0  0  0  0  3  0  0  0  0  4  4  . 
+ .* 1  1  1  .  .  0  3  2  .  2  2  4  .  . 
+ 1  1  1  1  1  1  0  3  .  3  .  4  4  .  . 
+ .  1  1  1  1  1  0  3  5  3  3  3  4  .  . 
+ .  1  1  .  5  5  5  .* 5  3  3  3  .  3  3 
+ .  .  .  .  5  5* 5  5  5  3  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  .  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 0.0@(0,0); resting: 14
+Samurai 0.0@(0,0); resting: 14
+Samurai 0.0@(0,0); resting: 14
+Samurai 0.0@(0,0); resting: 14
+Samurai 0.0@(0,0); resting: 14
+Samurai 0.0@(0,0); resting: 14
+### Turn: 73; Side: 1; Samurai: 0; Actions: 7 4
+Samurai 1.0 performs action: 7
+Samurai 1.0 moves from (7,10) to (7,9)
+Samurai 1.0 performs action: 4
+Section (6,9) occupied by 3
+Section (5,9) occupied by 3
+Section (4,9) occupied by 3
+Section (3,9) occupied by 3
+
+ .* .  .  .  .  .  2  .  2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  2  2  2  .  .  . 
+ 0  0  0  0  0  0  2  2  2  2  2* 2  .  4  . 
+ 0  0  0  0  0  0  .  .  2  2  2  2  4  4  4 
+ 0  0  0  0  0  0  2  2  2  .  .  4* 4  4  4 
+ 0  1  0  0  0  0  2  2  2  .  4  4  4  4  4 
+ .  1  1  0  0  0  0  3  0  0  0  0  4  4  . 
+ .* 1  1  1  .  .  0  3  2  .  2  2  4  .  . 
+ 1  1  1  1  1  1  0  3  .  3  .  4  4  .  . 
+ .  1  1  3  3  3  3  3* 5  3  3  3  4  .  . 
+ .  1  1  .  5  5  5  .  5  3  3  3  .  3  3 
+ .  .  .  .  5  5* 5  5  5  3  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  .  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 1.0@(7,9)
+Samurai 1.0@(7,9)
+Samurai 1.0@(7,9)
+Samurai 1.0@(7,9)
+Samurai 1.0@(7,9)
+Samurai 1.0@(7,9)
+### Turn: 74; Side: 1; Samurai: 1; Actions: 10 8 3
+Samurai 1.1 performs action: 10
+Samurai 1.1 performs action: 8
+Samurai 1.1 moves from (11,4) to (10,4)
+Samurai 1.1 performs action: 3
+Section (10,3) occupied by 4
+Samurai 0.2 injured
+Samurai 0.2 injured
+Section (10,2) occupied by 4
+Section (9,4) occupied by 4
+Section (9,3) occupied by 4
+Section (8,4) occupied by 4
+
+ .* .  .  .  .  .  2  .* 2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  2  2  2  .  .  . 
+ 0  0  0  0  0  0  2  2  2  2  4  2  .  4  . 
+ 0  0  0  0  0  0  .  .  2  4  4  2  4  4  4 
+ 0  0  0  0  0  0  2  2  4  4  .* 4  4  4  4 
+ 0  1  0  0  0  0  2  2  2  .  4  4  4  4  4 
+ .  1  1  0  0  0  0  3  0  0  0  0  4  4  . 
+ .* 1  1  1  .  .  0  3  2  .  2  2  4  .  . 
+ 1  1  1  1  1  1  0  3  .  3  .  4  4  .  . 
+ .  1  1  3  3  3  3  3* 5  3  3  3  4  .  . 
+ .  1  1  .  5  5  5  .  5  3  3  3  .  3  3 
+ .  .  .  .  5  5* 5  5  5  3  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  .  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 1.1@(10,4)
+Samurai 1.1@(10,4)
+Samurai 1.1@(10,4)
+Samurai 1.1@(10,4)
+Samurai 1.1@(10,4)
+Samurai 1.1@(10,4)
+### Turn: 75; Side: 0; Samurai: 1; Actions:
+
+ .* .  .  .  .  .  2  .* 2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  2  2  2  .  .  . 
+ 0  0  0  0  0  0  2  2  2  2  4  2  .  4  . 
+ 0  0  0  0  0  0  .  .  2  4  4  2  4  4  4 
+ 0  0  0  0  0  0  2  2  4  4  .* 4  4  4  4 
+ 0  1  0  0  0  0  2  2  2  .  4  4  4  4  4 
+ .  1  1  0  0  0  0  3  0  0  0  0  4  4  . 
+ .* 1  1  1  .  .  0  3  2  .  2  2  4  .  . 
+ 1  1  1  1  1  1  0  3  .  3  .  4  4  .  . 
+ .  1  1  3  3  3  3  3* 5  3  3  3  4  .  . 
+ .  1  1  .  5  5  5  .  5  3  3  3  .  3  3 
+ .  .  .  .  5  5* 5  5  5  3  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  .  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 0.1@(0,7); resting: 10
+Samurai 0.1@(0,7); resting: 10
+Samurai 0.1@(0,7); resting: 10
+Samurai 0.1@(0,7); resting: 10
+Samurai 0.1@(0,7); resting: 10
+Samurai 0.1@(0,7); resting: 10
+### Turn: 76; Side: 0; Samurai: 2; Actions:
+
+ .* .  .  .  .  .  2  .* 2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  2  2  2  .  .  . 
+ 0  0  0  0  0  0  2  2  2  2  4  2  .  4  . 
+ 0  0  0  0  0  0  .  .  2  4  4  2  4  4  4 
+ 0  0  0  0  0  0  2  2  4  4  .* 4  4  4  4 
+ 0  1  0  0  0  0  2  2  2  .  4  4  4  4  4 
+ .  1  1  0  0  0  0  3  0  0  0  0  4  4  . 
+ .* 1  1  1  .  .  0  3  2  .  2  2  4  .  . 
+ 1  1  1  1  1  1  0  3  .  3  .  4  4  .  . 
+ .  1  1  3  3  3  3  3* 5  3  3  3  4  .  . 
+ .  1  1  .  5  5  5  .  5  3  3  3  .  3  3 
+ .  .  .  .  5  5* 5  5  5  3  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  .  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 0.2@(7,0); resting: 18
+Samurai 0.2@(7,0); resting: 18
+Samurai 0.2@(7,0); resting: 18
+Samurai 0.2@(7,0); resting: 18
+Samurai 0.2@(7,0); resting: 18
+Samurai 0.2@(7,0); resting: 18
+### Turn: 77; Side: 1; Samurai: 2; Actions: 7 10 7 7
+Samurai 1.2 performs action: 7
+Samurai 1.2 moves from (5,11) to (5,10)
+Samurai 1.2 performs action: 10
+Samurai 1.2 performs action: 7
+Samurai 1.2 moves from (5,10) to (5,9)
+Samurai 1.2 performs action: 7
+Samurai 1.2 moves from (5,9) to (5,8)
+
+ .* .  .  .  .  .  2  .* 2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  2  2  2  .  .  . 
+ 0  0  0  0  0  0  2  2  2  2  4  2  .  4  . 
+ 0  0  0  0  0  0  .  .  2  4  4  2  4  4  4 
+ 0  0  0  0  0  0  2  2  4  4  .* 4  4  4  4 
+ 0  1  0  0  0  0  2  2  2  .  4  4  4  4  4 
+ .  1  1  0  0  0  0  3  0  0  0  0  4  4  . 
+ .* 1  1  1  .  .  0  3  2  .  2  2  4  .  . 
+ 1  1  1  1  1  1* 0  3  .  3  .  4  4  .  . 
+ .  1  1  3  3  3  3  3* 5  3  3  3  4  .  . 
+ .  1  1  .  5  5  5  .  5  3  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  .  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 1.2@(5,8)
+Samurai 1.2@(5,8)
+Samurai 1.2@(5,8)
+Samurai 1.2@(5,8)
+Samurai 1.2@(5,8)
+Samurai 1.2@(5,8)
+### Turn: 78; Side: 1; Samurai: 0; Actions: 8 3
+Samurai 1.0 performs action: 8
+Samurai 1.0 moves from (7,9) to (6,9)
+Samurai 1.0 performs action: 3
+Section (6,8) occupied by 3
+Section (6,7) occupied by 3
+Section (6,6) occupied by 3
+Section (6,5) occupied by 3
+
+ .* .  .  .  .  .  2  .* 2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  2  2  2  .  .  . 
+ 0  0  0  0  0  0  2  2  2  2  4  2  .  4  . 
+ 0  0  0  0  0  0  .  .  2  4  4  2  4  4  4 
+ 0  0  0  0  0  0  2  2  4  4  .* 4  4  4  4 
+ 0  1  0  0  0  0  3  2  2  .  4  4  4  4  4 
+ .  1  1  0  0  0  3  3  0  0  0  0  4  4  . 
+ .* 1  1  1  .  .  3  3  2  .  2  2  4  .  . 
+ 1  1  1  1  1  1* 3  3  .  3  .  4  4  .  . 
+ .  1  1  3  3  3  3* 3  5  3  3  3  4  .  . 
+ .  1  1  .  5  5  5  .  5  3  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  .  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 1.0@(6,9)
+Samurai 1.0@(6,9)
+Samurai 1.0@(6,9)
+Samurai 1.0@(6,9)
+Samurai 1.0@(6,9)
+Samurai 1.0@(6,9)
+### Turn: 79; Side: 0; Samurai: 0; Actions:
+
+ .* .  .  .  .  .  2  .* 2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  2  2  2  .  .  . 
+ 0  0  0  0  0  0  2  2  2  2  4  2  .  4  . 
+ 0  0  0  0  0  0  .  .  2  4  4  2  4  4  4 
+ 0  0  0  0  0  0  2  2  4  4  .* 4  4  4  4 
+ 0  1  0  0  0  0  3  2  2  .  4  4  4  4  4 
+ .  1  1  0  0  0  3  3  0  0  0  0  4  4  . 
+ .* 1  1  1  .  .  3  3  2  .  2  2  4  .  . 
+ 1  1  1  1  1  1* 3  3  .  3  .  4  4  .  . 
+ .  1  1  3  3  3  3* 3  5  3  3  3  4  .  . 
+ .  1  1  .  5  5  5  .  5  3  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  .  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 0.0@(0,0); resting: 7
+Samurai 0.0@(0,0); resting: 7
+Samurai 0.0@(0,0); resting: 7
+Samurai 0.0@(0,0); resting: 7
+Samurai 0.0@(0,0); resting: 7
+Samurai 0.0@(0,0); resting: 7
+### Turn: 80; Side: 0; Samurai: 1; Actions:
+
+ .* .  .  .  .  .  2  .* 2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  2  2  2  .  .  . 
+ 0  0  0  0  0  0  2  2  2  2  4  2  .  4  . 
+ 0  0  0  0  0  0  .  .  2  4  4  2  4  4  4 
+ 0  0  0  0  0  0  2  2  4  4  .* 4  4  4  4 
+ 0  1  0  0  0  0  3  2  2  .  4  4  4  4  4 
+ .  1  1  0  0  0  3  3  0  0  0  0  4  4  . 
+ .* 1  1  1  .  .  3  3  2  .  2  2  4  .  . 
+ 1  1  1  1  1  1* 3  3  .  3  .  4  4  .  . 
+ .  1  1  3  3  3  3* 3  5  3  3  3  4  .  . 
+ .  1  1  .  5  5  5  .  5  3  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  .  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 0.1@(0,7); resting: 5
+Samurai 0.1@(0,7); resting: 5
+Samurai 0.1@(0,7); resting: 5
+Samurai 0.1@(0,7); resting: 5
+Samurai 0.1@(0,7); resting: 5
+Samurai 0.1@(0,7); resting: 5
+### Turn: 81; Side: 1; Samurai: 1; Actions: 8 4
+Samurai 1.1 performs action: 8
+Samurai 1.1 moves from (10,4) to (9,4)
+Samurai 1.1 performs action: 4
+Section (8,4) occupied by 4
+Section (7,4) occupied by 4
+Section (9,5) occupied by 4
+Section (8,5) occupied by 4
+Section (9,6) occupied by 4
+
+ .* .  .  .  .  .  2  .* 2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  2  2  2  .  .  . 
+ 0  0  0  0  0  0  2  2  2  2  4  2  .  4  . 
+ 0  0  0  0  0  0  .  .  2  4  4  2  4  4  4 
+ 0  0  0  0  0  0  2  4  4  4* .  4  4  4  4 
+ 0  1  0  0  0  0  3  2  4  4  4  4  4  4  4 
+ .  1  1  0  0  0  3  3  0  4  0  0  4  4  . 
+ .* 1  1  1  .  .  3  3  2  .  2  2  4  .  . 
+ 1  1  1  1  1  1* 3  3  .  3  .  4  4  .  . 
+ .  1  1  3  3  3  3* 3  5  3  3  3  4  .  . 
+ .  1  1  .  5  5  5  .  5  3  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  .  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 1.1@(9,4)
+Samurai 1.1@(9,4)
+Samurai 1.1@(9,4)
+Samurai 1.1@(9,4)
+Samurai 1.1@(9,4)
+Samurai 1.1@(9,4)
+### Turn: 82; Side: 1; Samurai: 2; Actions: 7 4
+Samurai 1.2 performs action: 7
+Samurai 1.2 moves from (5,8) to (5,7)
+Samurai 1.2 performs action: 4
+Section (6,6) occupied by 5
+Section (5,6) occupied by 5
+Section (4,6) occupied by 5
+Section (4,7) occupied by 5
+Section (6,8) occupied by 5
+Section (5,8) occupied by 5
+Section (4,8) occupied by 5
+
+ .* .  .  .  .  .  2  .* 2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  2  2  2  .  .  . 
+ 0  0  0  0  0  0  2  2  2  2  4  2  .  4  . 
+ 0  0  0  0  0  0  .  .  2  4  4  2  4  4  4 
+ 0  0  0  0  0  0  2  4  4  4* .  4  4  4  4 
+ 0  1  0  0  0  0  3  2  4  4  4  4  4  4  4 
+ .  1  1  0  5  5  5  3  0  4  0  0  4  4  . 
+ .* 1  1  1  5  .* 3  3  2  .  2  2  4  .  . 
+ 1  1  1  1  5  5  5  3  .  3  .  4  4  .  . 
+ .  1  1  3  3  3  3* 3  5  3  3  3  4  .  . 
+ .  1  1  .  5  5  5  .  5  3  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  .  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 1.2@(5,7)
+Samurai 1.2@(5,7)
+Samurai 1.2@(5,7)
+Samurai 1.2@(5,7)
+Samurai 1.2@(5,7)
+Samurai 1.2@(5,7)
+### Turn: 83; Side: 0; Samurai: 2; Actions:
+
+ .* .  .  .  .  .  2  .* 2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  2  2  2  .  .  . 
+ 0  0  0  0  0  0  2  2  2  2  4  2  .  4  . 
+ 0  0  0  0  0  0  .  .  2  4  4  2  4  4  4 
+ 0  0  0  0  0  0  2  4  4  4* .  4  4  4  4 
+ 0  1  0  0  0  0  3  2  4  4  4  4  4  4  4 
+ .  1  1  0  5  5  5  3  0  4  0  0  4  4  . 
+ .* 1  1  1  5  .* 3  3  2  .  2  2  4  .  . 
+ 1  1  1  1  5  5  5  3  .  3  .  4  4  .  . 
+ .  1  1  3  3  3  3* 3  5  3  3  3  4  .  . 
+ .  1  1  .  5  5  5  .  5  3  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  .  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 0.2@(7,0); resting: 11
+Samurai 0.2@(7,0); resting: 11
+Samurai 0.2@(7,0); resting: 11
+Samurai 0.2@(7,0); resting: 11
+Samurai 0.2@(7,0); resting: 11
+Samurai 0.2@(7,0); resting: 11
+### Turn: 84; Side: 0; Samurai: 0; Actions:
+
+ .* .  .  .  .  .  2  .* 2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  2  2  2  .  .  . 
+ 0  0  0  0  0  0  2  2  2  2  4  2  .  4  . 
+ 0  0  0  0  0  0  .  .  2  4  4  2  4  4  4 
+ 0  0  0  0  0  0  2  4  4  4* .  4  4  4  4 
+ 0  1  0  0  0  0  3  2  4  4  4  4  4  4  4 
+ .  1  1  0  5  5  5  3  0  4  0  0  4  4  . 
+ .* 1  1  1  5  .* 3  3  2  .  2  2  4  .  . 
+ 1  1  1  1  5  5  5  3  .  3  .  4  4  .  . 
+ .  1  1  3  3  3  3* 3  5  3  3  3  4  .  . 
+ .  1  1  .  5  5  5  .  5  3  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  .  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 0.0@(0,0); resting: 2
+Samurai 0.0@(0,0); resting: 2
+Samurai 0.0@(0,0); resting: 2
+Samurai 0.0@(0,0); resting: 2
+Samurai 0.0@(0,0); resting: 2
+Samurai 0.0@(0,0); resting: 2
+### Turn: 85; Side: 1; Samurai: 0; Actions: 8 4
+Samurai 1.0 performs action: 8
+Samurai 1.0 moves from (6,9) to (5,9)
+Samurai 1.0 performs action: 4
+Section (4,9) occupied by 3
+Section (3,9) occupied by 3
+Section (2,9) occupied by 3
+Section (1,9) occupied by 3
+
+ .* .  .  .  .  .  2  .* 2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  2  2  2  .  .  . 
+ 0  0  0  0  0  0  2  2  2  2  4  2  .  4  . 
+ 0  0  0  0  0  0  .  .  2  4  4  2  4  4  4 
+ 0  0  0  0  0  0  2  4  4  4* .  4  4  4  4 
+ 0  1  0  0  0  0  3  2  4  4  4  4  4  4  4 
+ .  1  1  0  5  5  5  3  0  4  0  0  4  4  . 
+ .* 1  1  1  5  .* 3  3  2  .  2  2  4  .  . 
+ 1  1  1  1  5  5  5  3  .  3  .  4  4  .  . 
+ .  3  3  3  3  3* 3  3  5  3  3  3  4  .  . 
+ .  1  1  .  5  5  5  .  5  3  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  .  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 1.0@(5,9)
+Samurai 1.0@(5,9)
+Samurai 1.0@(5,9)
+Samurai 1.0@(5,9)
+Samurai 1.0@(5,9)
+Samurai 1.0@(5,9)
+### Turn: 86; Side: 1; Samurai: 1; Actions: 9 10 6 7 9
+Samurai 1.1 performs action: 9
+Samurai 1.1 performs action: 10
+Samurai 1.1 performs action: 6
+Samurai 1.1 moves from (9,4) to (10,4)
+Samurai 1.1 performs action: 7
+Samurai 1.1 moves from (10,4) to (10,3)
+Samurai 1.1 performs action: 9
+
+ .* .  .  .  .  .  2  .* 2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  2  2  2  .  .  . 
+ 0  0  0  0  0  0  2  2  2  2  4  2  .  4  . 
+ 0  0  0  0  0  0  .  .  2  4  4* 2  4  4  4 
+ 0  0  0  0  0  0  2  4  4  4  .  4  4  4  4 
+ 0  1  0  0  0  0  3  2  4  4  4  4  4  4  4 
+ .  1  1  0  5  5  5  3  0  4  0  0  4  4  . 
+ .* 1  1  1  5  .* 3  3  2  .  2  2  4  .  . 
+ 1  1  1  1  5  5  5  3  .  3  .  4  4  .  . 
+ .  3  3  3  3  3* 3  3  5  3  3  3  4  .  . 
+ .  1  1  .  5  5  5  .  5  3  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  .  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 1.1@(10,3); hiding
+Samurai 1.1@(10,3); hiding
+Samurai 1.1@(10,3); hiding
+Samurai 1.1@(10,3); hiding
+Samurai 1.1@(10,3); hiding
+Samurai 1.1@(10,3); hiding
+### Turn: 87; Side: 0; Samurai: 1; Actions: 6 9 6 7
+Samurai 0.1 performs action: 6
+Samurai 0.1 moves from (0,7) to (1,7)
+Samurai 0.1 performs action: 9
+Samurai 0.1 performs action: 6
+Samurai 0.1 moves from (1,7) to (2,7)
+Samurai 0.1 performs action: 7
+Samurai 0.1 moves from (2,7) to (2,6)
+
+ .* .  .  .  .  .  2  .* 2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  2  2  2  .  .  . 
+ 0  0  0  0  0  0  2  2  2  2  4  2  .  4  . 
+ 0  0  0  0  0  0  .  .  2  4  4* 2  4  4  4 
+ 0  0  0  0  0  0  2  4  4  4  .  4  4  4  4 
+ 0  1  0  0  0  0  3  2  4  4  4  4  4  4  4 
+ .  1  1* 0  5  5  5  3  0  4  0  0  4  4  . 
+ .  1  1  1  5  .* 3  3  2  .  2  2  4  .  . 
+ 1  1  1  1  5  5  5  3  .  3  .  4  4  .  . 
+ .  3  3  3  3  3* 3  3  5  3  3  3  4  .  . 
+ .  1  1  .  5  5  5  .  5  3  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  .  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 0.1@(2,6); hiding
+Samurai 0.1@(2,6); hiding
+Samurai 0.1@(2,6); hiding
+Samurai 0.1@(2,6); hiding
+Samurai 0.1@(2,6); hiding
+Samurai 0.1@(2,6); hiding
+### Turn: 88; Side: 0; Samurai: 2; Actions:
+
+ .* .  .  .  .  .  2  .* 2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  2  2  2  .  .  . 
+ 0  0  0  0  0  0  2  2  2  2  4  2  .  4  . 
+ 0  0  0  0  0  0  .  .  2  4  4* 2  4  4  4 
+ 0  0  0  0  0  0  2  4  4  4  .  4  4  4  4 
+ 0  1  0  0  0  0  3  2  4  4  4  4  4  4  4 
+ .  1  1* 0  5  5  5  3  0  4  0  0  4  4  . 
+ .  1  1  1  5  .* 3  3  2  .  2  2  4  .  . 
+ 1  1  1  1  5  5  5  3  .  3  .  4  4  .  . 
+ .  3  3  3  3  3* 3  3  5  3  3  3  4  .  . 
+ .  1  1  .  5  5  5  .  5  3  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  .  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 0.2@(7,0); resting: 6
+Samurai 0.2@(7,0); resting: 6
+Samurai 0.2@(7,0); resting: 6
+Samurai 0.2@(7,0); resting: 6
+Samurai 0.2@(7,0); resting: 6
+Samurai 0.2@(7,0); resting: 6
+### Turn: 89; Side: 1; Samurai: 2; Actions: 7 7 7
+Samurai 1.2 performs action: 7
+Samurai 1.2 moves from (5,7) to (5,6)
+Samurai 1.2 performs action: 7
+Samurai 1.2 moves from (5,6) to (5,5)
+Samurai 1.2 performs action: 7
+Samurai 1.2 moves from (5,5) to (5,4)
+
+ .* .  .  .  .  .  2  .* 2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  2  2  2  .  .  . 
+ 0  0  0  0  0  0  2  2  2  2  4  2  .  4  . 
+ 0  0  0  0  0  0  .  .  2  4  4* 2  4  4  4 
+ 0  0  0  0  0  0* 2  4  4  4  .  4  4  4  4 
+ 0  1  0  0  0  0  3  2  4  4  4  4  4  4  4 
+ .  1  1* 0  5  5  5  3  0  4  0  0  4  4  . 
+ .  1  1  1  5  .  3  3  2  .  2  2  4  .  . 
+ 1  1  1  1  5  5  5  3  .  3  .  4  4  .  . 
+ .  3  3  3  3  3* 3  3  5  3  3  3  4  .  . 
+ .  1  1  .  5  5  5  .  5  3  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  .  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 1.2@(5,4)
+Samurai 1.2@(5,4)
+Samurai 1.2@(5,4)
+Samurai 1.2@(5,4)
+Samurai 1.2@(5,4)
+Samurai 1.2@(5,4)
+### Turn: 90; Side: 1; Samurai: 0; Actions: 7 4 9
+Samurai 1.0 performs action: 7
+Samurai 1.0 moves from (5,9) to (5,8)
+Samurai 1.0 performs action: 4
+Section (4,8) occupied by 3
+Section (3,8) occupied by 3
+Section (2,8) occupied by 3
+Section (1,8) occupied by 3
+Samurai 1.0 performs action: 9
+
+ .* .  .  .  .  .  2  .* 2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  2  2  2  .  .  . 
+ 0  0  0  0  0  0  2  2  2  2  4  2  .  4  . 
+ 0  0  0  0  0  0  .  .  2  4  4* 2  4  4  4 
+ 0  0  0  0  0  0* 2  4  4  4  .  4  4  4  4 
+ 0  1  0  0  0  0  3  2  4  4  4  4  4  4  4 
+ .  1  1* 0  5  5  5  3  0  4  0  0  4  4  . 
+ .  1  1  1  5  .  3  3  2  .  2  2  4  .  . 
+ 1  3  3  3  3  5* 5  3  .  3  .  4  4  .  . 
+ .  3  3  3  3  3  3  3  5  3  3  3  4  .  . 
+ .  1  1  .  5  5  5  .  5  3  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  .  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 1.0@(5,8); hiding
+Samurai 1.0@(5,8); hiding
+Samurai 1.0@(5,8); hiding
+Samurai 1.0@(5,8); hiding
+Samurai 1.0@(5,8); hiding
+Samurai 1.0@(5,8); hiding
+### Turn: 91; Side: 0; Samurai: 0; Actions: 2 6 9
+Samurai 0.0 performs action: 2
+Section (1,0) occupied by 0
+Section (2,0) occupied by 0
+Section (3,0) occupied by 0
+Section (4,0) occupied by 0
+Samurai 0.0 performs action: 6
+Samurai 0.0 moves from (0,0) to (1,0)
+Samurai 0.0 performs action: 9
+
+ .  0* 0  0  0  .  2  .* 2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  2  2  2  .  .  . 
+ 0  0  0  0  0  0  2  2  2  2  4  2  .  4  . 
+ 0  0  0  0  0  0  .  .  2  4  4* 2  4  4  4 
+ 0  0  0  0  0  0* 2  4  4  4  .  4  4  4  4 
+ 0  1  0  0  0  0  3  2  4  4  4  4  4  4  4 
+ .  1  1* 0  5  5  5  3  0  4  0  0  4  4  . 
+ .  1  1  1  5  .  3  3  2  .  2  2  4  .  . 
+ 1  3  3  3  3  5* 5  3  .  3  .  4  4  .  . 
+ .  3  3  3  3  3  3  3  5  3  3  3  4  .  . 
+ .  1  1  .  5  5  5  .  5  3  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  .  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 0.0@(1,0); hiding
+Samurai 0.0@(1,0); hiding
+Samurai 0.0@(1,0); hiding
+Samurai 0.0@(1,0); hiding
+Samurai 0.0@(1,0); hiding
+Samurai 0.0@(1,0); hiding
+### Turn: 92; Side: 0; Samurai: 1; Actions: 10 6 1
+Samurai 0.1 performs action: 10
+Samurai 0.1 performs action: 6
+Samurai 0.1 moves from (2,6) to (3,6)
+Samurai 0.1 performs action: 1
+Section (3,7) occupied by 1
+Section (3,8) occupied by 1
+Section (4,6) occupied by 1
+Section (4,7) occupied by 1
+Section (5,6) occupied by 1
+
+ .  0* 0  0  0  .  2  .* 2  .  .  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  2  2  2  .  .  . 
+ 0  0  0  0  0  0  2  2  2  2  4  2  .  4  . 
+ 0  0  0  0  0  0  .  .  2  4  4* 2  4  4  4 
+ 0  0  0  0  0  0* 2  4  4  4  .  4  4  4  4 
+ 0  1  0  0  0  0  3  2  4  4  4  4  4  4  4 
+ .  1  1  0* 1  1  5  3  0  4  0  0  4  4  . 
+ .  1  1  1  1  .  3  3  2  .  2  2  4  .  . 
+ 1  3  3  1  3  5* 5  3  .  3  .  4  4  .  . 
+ .  3  3  3  3  3  3  3  5  3  3  3  4  .  . 
+ .  1  1  .  5  5  5  .  5  3  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  .  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 0.1@(3,6)
+Samurai 0.1@(3,6)
+Samurai 0.1@(3,6)
+Samurai 0.1@(3,6)
+Samurai 0.1@(3,6)
+Samurai 0.1@(3,6)
+### Turn: 93; Side: 1; Samurai: 1; Actions: 10 7 3
+Samurai 1.1 performs action: 10
+Samurai 1.1 performs action: 7
+Samurai 1.1 moves from (10,3) to (10,2)
+Samurai 1.1 performs action: 3
+Section (10,1) occupied by 4
+Section (10,0) occupied by 4
+Section (9,2) occupied by 4
+Section (9,1) occupied by 4
+Section (8,2) occupied by 4
+
+ .  0* 0  0  0  .  2  .* 2  .  4  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  4  4  2  .  .  . 
+ 0  0  0  0  0  0  2  2  4  4  4* 2  .  4  . 
+ 0  0  0  0  0  0  .  .  2  4  4  2  4  4  4 
+ 0  0  0  0  0  0* 2  4  4  4  .  4  4  4  4 
+ 0  1  0  0  0  0  3  2  4  4  4  4  4  4  4 
+ .  1  1  0* 1  1  5  3  0  4  0  0  4  4  . 
+ .  1  1  1  1  .  3  3  2  .  2  2  4  .  . 
+ 1  3  3  1  3  5* 5  3  .  3  .  4  4  .  . 
+ .  3  3  3  3  3  3  3  5  3  3  3  4  .  . 
+ .  1  1  .  5  5  5  .  5  3  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  .  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 1.1@(10,2)
+Samurai 1.1@(10,2)
+Samurai 1.1@(10,2)
+Samurai 1.1@(10,2)
+Samurai 1.1@(10,2)
+Samurai 1.1@(10,2)
+### Turn: 94; Side: 1; Samurai: 2; Actions: 8 3
+Samurai 1.2 performs action: 8
+Samurai 1.2 moves from (5,4) to (4,4)
+Samurai 1.2 performs action: 3
+Section (5,5) occupied by 5
+Section (5,4) occupied by 5
+Section (5,3) occupied by 5
+Section (4,3) occupied by 5
+Section (3,5) occupied by 5
+Section (3,4) occupied by 5
+Section (3,3) occupied by 5
+
+ .  0* 0  0  0  .  2  .* 2  .  4  .  .  .  . 
+ .  0  0  0  0  0  2  .  2  4  4  2  .  .  . 
+ 0  0  0  0  0  0  2  2  4  4  4* 2  .  4  . 
+ 0  0  0  5  5  5  .  .  2  4  4  2  4  4  4 
+ 0  0  0  5  0* 5  2  4  4  4  .  4  4  4  4 
+ 0  1  0  5  0  5  3  2  4  4  4  4  4  4  4 
+ .  1  1  0* 1  1  5  3  0  4  0  0  4  4  . 
+ .  1  1  1  1  .  3  3  2  .  2  2  4  .  . 
+ 1  3  3  1  3  5* 5  3  .  3  .  4  4  .  . 
+ .  3  3  3  3  3  3  3  5  3  3  3  4  .  . 
+ .  1  1  .  5  5  5  .  5  3  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  .  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 1.2@(4,4)
+Samurai 1.2@(4,4)
+Samurai 1.2@(4,4)
+Samurai 1.2@(4,4)
+Samurai 1.2@(4,4)
+Samurai 1.2@(4,4)
+### Turn: 95; Side: 0; Samurai: 2; Actions: 6 1 9
+Samurai 0.2 performs action: 6
+Samurai 0.2 moves from (7,0) to (8,0)
+Samurai 0.2 performs action: 1
+Section (7,1) occupied by 2
+Section (8,1) occupied by 2
+Section (9,0) occupied by 2
+Section (9,1) occupied by 2
+Samurai 0.2 performs action: 9
+
+ .  0* 0  0  0  .  2  .  2* 2  4  .  .  .  . 
+ .  0  0  0  0  0  2  2  2  2  4  2  .  .  . 
+ 0  0  0  0  0  0  2  2  4  4  4* 2  .  4  . 
+ 0  0  0  5  5  5  .  .  2  4  4  2  4  4  4 
+ 0  0  0  5  0* 5  2  4  4  4  .  4  4  4  4 
+ 0  1  0  5  0  5  3  2  4  4  4  4  4  4  4 
+ .  1  1  0* 1  1  5  3  0  4  0  0  4  4  . 
+ .  1  1  1  1  .  3  3  2  .  2  2  4  .  . 
+ 1  3  3  1  3  5* 5  3  .  3  .  4  4  .  . 
+ .  3  3  3  3  3  3  3  5  3  3  3  4  .  . 
+ .  1  1  .  5  5  5  .  5  3  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  .  3  3  .  3  3 
+ .  .  .  .  5  5  5  5  5  3  3  3  3  3  3 
+ .  .  .  .  .  .  3  .  3  3  .  3  3  3  . 
+Samurai 0.2@(8,0); hiding
+Samurai 0.2@(8,0); hiding
+Samurai 0.2@(8,0); hiding
+Samurai 0.2@(8,0); hiding
+Samurai 0.2@(8,0); hiding
+Samurai 0.2@(8,0); hiding

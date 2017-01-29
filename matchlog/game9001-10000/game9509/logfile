@@ -1,0 +1,894 @@
+### SamurAI 3x3 Game Log ###
+# <game name> <#turns> <width> <height>
+"SamurAI 3x3" 96 15 15 20
+# Army sizes
+ 3 3
+# Samurai Info
+# Army 0 Samurai 0
+"sinryakudegeso" 0 0
+4 0 1 0 2 0 3 0 4
+5 7 0 0
+# Army 0 Samurai 1
+"sinryakudegeso" 0 0
+5 0 1 0 2 1 0 1 1 2 0
+5 7 0 7
+# Army 0 Samurai 2
+"sinryakudegeso" 0 0
+7 -1 -1 -1 0 -1 1 0 1 1 -1 1 0 1 1
+5 7 7 0
+# Army 1 Samurai 0
+"arukuka" 0 0
+4 0 1 0 2 0 3 0 4
+5 7 14 14
+# Army 1 Samurai 1
+"arukuka" 0 0
+5 0 1 0 2 1 0 1 1 2 0
+5 7 14 7
+# Army 1 Samurai 2
+"arukuka" 0 0
+7 -1 -1 -1 0 -1 1 0 1 1 -1 1 0 1 1
+5 7 7 14
+# Turn 0/96
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+1 6 0
+# Comments
+""
+# Turn 1/96
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 2/96
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 3/96
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+2 6 0
+# Comments
+""
+# Turn 4/96
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+5 1 0
+# Comments
+""
+# Turn 5/96
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 6/96
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+4 8 9 0
+# Comments
+"Action limit exceeded"
+# Turn 7/96
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+5 2 0
+# Comments
+""
+# Turn 8/96
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+6 1 9 0
+# Comments
+""
+# Turn 9/96
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+4 0
+# Comments
+"Action limit exceeded"
+# Turn 10/96
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+7 3 0
+# Comments
+"Action limit exceeded"
+# Turn 11/96
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+5 4 0
+# Comments
+""
+# Turn 12/96
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+1 5 0
+# Comments
+""
+# Turn 13/96
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+8 10 3 0
+# Comments
+""
+# Turn 14/96
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+7 3 0
+# Comments
+""
+# Turn 15/96
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+5 10 4 0
+# Comments
+""
+# Turn 16/96
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+9 10 6 6 0
+# Comments
+""
+# Turn 17/96
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+7 2 9 0
+# Comments
+""
+# Turn 18/96
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+8 3 9 0
+# Comments
+""
+# Turn 19/96
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+2 6 9 0
+# Comments
+""
+# Turn 20/96
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+5 4 9 0
+# Comments
+""
+# Turn 21/96
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+8 3 0
+# Comments
+""
+# Turn 22/96
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+10 7 3 0
+# Comments
+""
+# Turn 23/96
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+2 5 9 0
+# Comments
+""
+# Turn 24/96
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+10 1 6 0
+# Comments
+""
+# Turn 25/96
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+10 8 3 0
+# Comments
+""
+# Turn 26/96
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+8 4 9 0
+# Comments
+""
+# Turn 27/96
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+10 1 9 0
+# Comments
+""
+# Turn 28/96
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+10 7 5 9 0
+# Comments
+""
+# Turn 29/96
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+7 4 0
+# Comments
+""
+# Turn 30/96
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+8 3 0
+# Comments
+""
+# Turn 31/96
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+1 5 9 0
+# Comments
+""
+# Turn 32/96
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+5 0
+# Comments
+""
+# Turn 33/96
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+10 7 3 0
+# Comments
+""
+# Turn 34/96
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+7 4 0
+# Comments
+""
+# Turn 35/96
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+10 7 7 9 0
+# Comments
+""
+# Turn 36/96
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+10 5 8 9 0
+# Comments
+""
+# Turn 37/96
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+8 4 9 0
+# Comments
+""
+# Turn 38/96
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+8 3 9 0
+# Comments
+""
+# Turn 39/96
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+10 9 10 5 9 0
+# Comments
+""
+# Turn 40/96
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+10 6 8 9 0
+# Comments
+""
+# Turn 41/96
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+7 2 9 0
+# Comments
+""
+# Turn 42/96
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+7 10 4 0
+# Comments
+""
+# Turn 43/96
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+6 10 2 0
+# Comments
+""
+# Turn 44/96
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+10 4 9 0
+# Comments
+""
+# Turn 45/96
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+8 10 3 0
+# Comments
+""
+# Turn 46/96
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+7 10 3 0
+# Comments
+""
+# Turn 47/96
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+8 5 5 0
+# Comments
+""
+# Turn 48/96
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+5 2 0
+# Comments
+""
+# Turn 49/96
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+7 4 0
+# Comments
+""
+# Turn 50/96
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+5 4 0
+# Comments
+""
+# Turn 51/96
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+10 1 9 0
+# Comments
+""
+# Turn 52/96
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+8 5 8 0
+# Comments
+""
+# Turn 53/96
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+7 2 0
+# Comments
+""
+# Turn 54/96
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+7 4 0
+# Comments
+""
+# Turn 55/96
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+5 2 9 0
+# Comments
+""
+# Turn 56/96
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+10 5 4 0
+# Comments
+""
+# Turn 57/96
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+8 4 0
+# Comments
+""
+# Turn 58/96
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 59/96
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+6 0
+# Comments
+""
+# Turn 60/96
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+10 2 7 0
+# Comments
+""
+# Turn 61/96
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+7 4 9 0
+# Comments
+""
+# Turn 62/96
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+8 3 9 0
+# Comments
+""
+# Turn 63/96
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+6 1 0
+# Comments
+""
+# Turn 64/96
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+10 5 1 0
+# Comments
+""
+# Turn 65/96
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 66/96
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+10 7 2 0
+# Comments
+""
+# Turn 67/96
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+2 9 5 0
+# Comments
+""
+# Turn 68/96
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+6 2 9 0
+# Comments
+""
+# Turn 69/96
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 70/96
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 71/96
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+6 6 6 0
+# Comments
+""
+# Turn 72/96
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+6 7 7 0
+# Comments
+""
+# Turn 73/96
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+7 3 0
+# Comments
+""
+# Turn 74/96
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 75/96
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+10 6 1 0
+# Comments
+""
+# Turn 76/96
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+2 5 9 0
+# Comments
+""
+# Turn 77/96
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+3 0
+# Comments
+""
+# Turn 78/96
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+8 3 0
+# Comments
+""
+# Turn 79/96
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+10 9 6 6 0
+# Comments
+""
+# Turn 80/96
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+7 2 9 0
+# Comments
+""
+# Turn 81/96
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 82/96
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+7 4 0
+# Comments
+""
+# Turn 83/96
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+8 10 4 0
+# Comments
+""
+# Turn 84/96
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+10 6 1 0
+# Comments
+""
+# Turn 85/96
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 86/96
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+5 4 9 0
+# Comments
+""
+# Turn 87/96
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+10 7 2 0
+# Comments
+""
+# Turn 88/96
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+6 7 7 9 0
+# Comments
+""
+# Turn 89/96
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+8 4 9 0
+# Comments
+""
+# Turn 90/96
+# <samurai id>
+3
+# <think time> <used time>
+100 0
+# Actions
+0
+# Comments
+""
+# Turn 91/96
+# <samurai id>
+0
+# <think time> <used time>
+100 0
+# Actions
+8 2 0
+# Comments
+""
+# Turn 92/96
+# <samurai id>
+1
+# <think time> <used time>
+100 0
+# Actions
+6 2 0
+# Comments
+""
+# Turn 93/96
+# <samurai id>
+4
+# <think time> <used time>
+100 0
+# Actions
+10 8 4 0
+# Comments
+""
+# Turn 94/96
+# <samurai id>
+5
+# <think time> <used time>
+100 0
+# Actions
+10 8 1 0
+# Comments
+""
+# Turn 95/96
+# <samurai id>
+2
+# <think time> <used time>
+100 0
+# Actions
+10 6 3 0
+# Comments
+""

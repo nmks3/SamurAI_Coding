@@ -6,8 +6,8 @@ import sys
 args = sys.argv
 img_name = args[1]
 i = args[2]
-tate = "/Users/g-2017/SamurAI_Coding/Python/tate.png"
-yoko = "/Users/g-2017/SamurAI_Coding/Python/yoko.png"
+tate = "/Users/g-2017/SamurAI_Coding/Python/tate_1.png"
+yoko = "/Users/g-2017/SamurAI_Coding/Python/yoko_1.png"
 
 #15x15
 img1 = cv2.imread(img_name)

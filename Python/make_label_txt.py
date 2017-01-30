@@ -10,7 +10,8 @@ for i in range(10):
 	# 配列の添字を制御する変数
 	labelNum = 1
 	side = "first"
-	fileName = '/Users/g-2017/SamurAI_Coding/traindata/' + side + '/labels/label' + fileNum + '.txt'
+	arm = "2"
+	fileName = '/Users/g-2017/SamurAI_Coding/traindata/' + side + '/labels' + arm + '/label' + fileNum + '.txt'
 	fw = open(fileName, 'w')
 
 	for k in range(1000):
@@ -24,7 +25,7 @@ for i in range(10):
 		#print('Now file is : game' + str(k + 1))
 		for line2 in lines2:
 			if line2[0] == '#':
-				if line2[19] == '0' and line2[31] == '2':
+				if line2[19] == '0' and line2[31] == arm:
 					#改行の除去
 					line2 = line2.rstrip()
 					line2 = line2[43:]
@@ -83,7 +84,7 @@ for i in range(10):
 					line2 = re.sub('887','788',line2)
 					fw.writelines(line2 + "\n")
 					lineNum2 += 1
-				elif line2[20] == '0'  and line2[32] == '2':
+				elif line2[20] == '0'  and line2[32] == arm:
 					#改行の除去
 					line2 = line2.rstrip()
 					line2 = line2[44:]

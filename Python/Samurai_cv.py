@@ -26,7 +26,7 @@ for i in range(10):
 	# 配列の添字を制御する変数
 	labelNum = 1
 	# 読み込むラベルファイルを設定
-	label_txt = dir_name + '/Python/label' + fileNum + '.txt'
+	label_txt = dir_name + '/traindata' + side + '/labels/label' + fileNum + '.txt'
 	fr2 = open(label_txt)
 	lines2 = fr2.readlines()
 	# 事前に準備してあるラベルファイルを読み取り、配列に格納
@@ -126,9 +126,9 @@ for i in range(10):
 					imageNum += 1
 					# 正解ラベルがある場合のみ、当該フォルダへ画像を保存
 					if label[labelNum] == '':
-						outimg = dir_name + 'traindata/' + side + '/' + arm + '/' + str(imageNum) + '.png'
+						outimg = dir_name + 'traindata/' + side + '/other' + arm + '/' + str(imageNum) + '.png'
 					elif label[labelNum] == 'amurai1.0disqualified':
-						outimg = dir_name + 'traindata/' + side + '/' + arm + '/' + str(imageNum) + '.png'
+						outimg = dir_name + 'traindata/' + side + '/other' + arm + '/' + str(imageNum) + '.png'
 					else:
 						outimg = dir_name + 'traindata/' + side + '/' + arm + '/' + label[labelNum] + '/' +str(imageNum) + '.png'
 					drawWhite()

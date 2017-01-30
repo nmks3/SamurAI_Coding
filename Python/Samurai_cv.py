@@ -11,7 +11,7 @@ rows = 15
 side = "first"
 arm = "2"
 # 作業ディレクトリを指定
-dir_name = "/Users/g-2017/SamurAI_Coding/"
+dir_name = "/Users/install/ML_inoue/SamurAI_Coding/"
 
 for i in range(10):
 	# イメージ生成
@@ -26,7 +26,7 @@ for i in range(10):
 	# 配列の添字を制御する変数
 	labelNum = 1
 	# 読み込むラベルファイルを設定
-	label_txt = dir_name + '/traindata' + side + '/labels/label' + fileNum + '.txt'
+	label_txt = dir_name + 'traindata/' + side + '/labels' + arm + '/label' + fileNum + '.txt'
 	fr2 = open(label_txt)
 	lines2 = fr2.readlines()
 	# 事前に準備してあるラベルファイルを読み取り、配列に格納
@@ -89,7 +89,7 @@ for i in range(10):
 		lineNum = 0
 		lineNum2 = 0
 		# 読み込むファイルを設定
-		input_txt = '/Users/g-2017/SamurAI_Coding/matchlog/game' + fileNum + '/game' + str(k + plusFileNum) + '/input' + arm 
+		input_txt = dir_name + 'matchlog/game' + fileNum + '/game' + str(k + plusFileNum) + '/input' + arm 
 		fr = open(input_txt)
 		lines = fr.readlines()
 		# 現在どのファイルを読み込んでいるか表示する

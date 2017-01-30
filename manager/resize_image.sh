@@ -1,6 +1,6 @@
 dir_name=/Users/g-2017/SamuraiCoding
 side=first
-arm=2
+arm=0
 
 while read LINE; do
     COLM1=`echo ${LINE} | cut -d , -f 1`

@@ -8,8 +8,8 @@ while read LINE; do
 		python ${dir_name}/Python/resize_image.py $COLM1
 		m=$((n % 1000))
 		if [ $m -eq 0 ] ; then
-			echo $COLM1 | cut -c 47-51
+			echo $COLM1 | cut -c 57-60
 		fi
 		n=$((n+1))
 　	fi
-done < ${dir_name}/traindata/${side}/${arm}/train.txt
+done < ${dir_name}/traindata/${side}/train${arm}.txt

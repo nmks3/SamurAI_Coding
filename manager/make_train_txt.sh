@@ -3,7 +3,7 @@ side=first
 arm=2
 
 cd ${dir_name}/${side}/${arm}/
-ls > ../filename_label.txt
+ls > ../filename_label${arm}.txt
 
 n=0
 while read LINE; do

@@ -1,4 +1,4 @@
-dir_name=/Users/g-2017/SamuraiCoding
+dir_name=/Users/install/ML_inoue/SamurAI_Coding
 side=first
 arm=0
 n=0

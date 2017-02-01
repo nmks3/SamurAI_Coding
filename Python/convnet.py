@@ -42,7 +42,7 @@ def build_deep_cnn(num_classes=3):
 
 	model.add(Convolution2D(128, 3, 3))
 	model.add(Activation('relu'))
-	model.add(MaxPooling2D(pool_size=(2, 2)))
+	model.add(MaxPooling2D(pool_size=(2, 2), dim_ordering="th"))
 	model.add(Dropout(0.5))
 
 	model.add(Convolution2D(256, 3, 3, border_mode='same'))
@@ -50,7 +50,7 @@ def build_deep_cnn(num_classes=3):
 
 	model.add(Convolution2D(256, 3, 3))
 	model.add(Activation('relu'))
-	model.add(MaxPooling2D(pool_size=(2, 2)))
+	model.add(MaxPooling2D(pool_size=(2, 2), dim_ordering="th"))
 	model.add(Dropout(0.5))
 
 	model.add(Flatten())

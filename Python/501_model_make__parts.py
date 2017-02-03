@@ -17,9 +17,9 @@ IMAGE_PIXELS = IMAGE_SIZE*IMAGE_SIZE*3
 
 flags = tf.app.flags
 FLAGS = flags.FLAGS
-flags.DEFINE_string('train', '/Users/g-2017/SamuraiCoding/traindata/first_1/train0.txt', 'File name of train data')
-flags.DEFINE_string('test', '/Users/g-2017/SamuraiCoding/traindata/first_1/test0.txt', 'File name of train data')
-flags.DEFINE_string('train_dir', '/Users/g-2017/SamuraiCoding/traindata/first_1/learn_log0/', 'Directory to put the training data.')
+flags.DEFINE_string('train', '/Users/g-2017/SamurAI_Coding/traindata/first/train0.txt', 'File name of train data')
+flags.DEFINE_string('test', '/Users/g-2017/SamurAI_Coding/traindata/first/test0.txt', 'File name of train data')
+flags.DEFINE_string('train_dir', '/Users/g-2017/SamurAI_Coding/traindata/first/learn_log0/', 'Directory to put the training data.')
 flags.DEFINE_integer('max_steps', 10, 'Number of steps to run trainer.')
 #flags.DEFINE_integer('batch_size', 10, 'Batch size'
 #                     'Must divide evenly into the dataset sizes.')

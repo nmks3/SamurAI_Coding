@@ -17,10 +17,10 @@ IMAGE_PIXELS = IMAGE_SIZE*IMAGE_SIZE*3
 
 flags = tf.app.flags
 FLAGS = flags.FLAGS
-flags.DEFINE_string('train', '/Users/g-2017/SamurAI_Coding/traindata/first/train0.txt', 'File name of train data')
-flags.DEFINE_string('test', '/Users/g-2017/SamurAI_Coding/traindata/first/test0.txt', 'File name of train data')
-flags.DEFINE_string('train_dir', '/Users/g-2017/SamurAI_Coding/traindata/first/learn_log0/', 'Directory to put the training data.')
-flags.DEFINE_integer('max_steps', 10, 'Number of steps to run trainer.')
+flags.DEFINE_string('train', '/Users/install/ML_inoue/SamurAI_Coding/traindata/first/train0_1.txt', 'File name of train data')
+flags.DEFINE_string('test', '/Users/install/ML_inoue/SamurAI_Coding/traindata/first/test0_1.txt', 'File name of train data')
+flags.DEFINE_string('train_dir', '/Users/install/ML_inoue/SamurAI_Coding/traindata/first/learn_log0/2/', 'Directory to put the training data.')
+flags.DEFINE_integer('max_steps', 50, 'Number of steps to run trainer.')
 #flags.DEFINE_integer('batch_size', 10, 'Batch size'
 #                     'Must divide evenly into the dataset sizes.')
 flags.DEFINE_integer('batch_size', 330, 'Batch size'
@@ -164,7 +164,7 @@ if __name__ == '__main__':
         l = line.split()
         # データを読み込んで28x28に縮小
 
-        #print "aaaaa line[%s] %s %s"%(line,l[0],l[1])
+        print "1 line[%s] %s %s"%(line,l[0],l[1])
 
         img = cv2.imread(l[0])
         img = cv2.resize(img, (28, 28))
@@ -188,7 +188,7 @@ if __name__ == '__main__':
         img = cv2.imread(l[0])
         img = cv2.resize(img, (28, 28))
 
-        #print "aaaaa2 line[%s] %s %s"%(line,l[0],l[1])
+        print "2 line[%s] %s %s"%(line,l[0],l[1])
 
         test_image.append(img.flatten().astype(np.float32)/255.0)
         tmp = np.zeros(NUM_CLASSES)
@@ -199,7 +199,7 @@ if __name__ == '__main__':
     f.close()
 
     with tf.Graph().as_default():
-        print(1)
+        #print(1)
         # 画像を入れる仮のTensor
         images_placeholder = tf.placeholder("float", shape=(None, IMAGE_PIXELS))
         # ラベルを入れる仮のTensor
@@ -228,9 +228,9 @@ if __name__ == '__main__':
 
         # 訓練の実行
         for step in range(FLAGS.max_steps):
-            print(1)
+            #print(1)
             for i in range(len(train_image)/FLAGS.batch_size):
-                print(1)
+                #print(1)
                 # batch_size分の画像に対して訓練の実行
                 batch = FLAGS.batch_size*i
                 # feed_dictでplaceholderに入れるデータを指定する
@@ -260,4 +260,4 @@ if __name__ == '__main__':
         keep_prob: 1.0})
 
     # 最終的なモデルを保存
-    save_path = saver.save(sess, "model.ckpt")
+    save_path = saver.save(sess, "../traindata/first/learn_log0/2/model.ckpt")

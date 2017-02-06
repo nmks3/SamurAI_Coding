@@ -15,7 +15,7 @@ import tensorflow as tf
 import cv2
 
 
-NUM_CLASSES = 2
+NUM_CLASSES = 70
 IMAGE_SIZE = 28
 IMAGE_PIXELS = IMAGE_SIZE*IMAGE_SIZE*3
 
@@ -96,8 +96,8 @@ if __name__ == '__main__':
     sess = tf.InteractiveSession()
 
     saver = tf.train.Saver()
-    sess.run(tf.initialize_all_variables())
-    saver.restore(sess, "model.ckpt")
+    sess.run(tf.global_variables_initializer())
+    saver.restore(sess, "/Users/install/ML_inoue/SamurAI_Coding/traindata/first/learn_log0/2/model.ckpt")
 
     for i in range(len(test_image)):
         pred = np.argmax(logits.eval(feed_dict={
@@ -107,3 +107,4 @@ if __name__ == '__main__':
             images_placeholder: [test_image[i]],
             keep_prob: 1.0 })[0]
         print filenames[i],pred,"{0:10.8f}".format(pred2[0]),"{0:10.8f}".format(pred2[1])
+        print(pred2)

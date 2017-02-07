@@ -97,7 +97,7 @@ if __name__ == '__main__':
 
     saver = tf.train.Saver()
     sess.run(tf.global_variables_initializer())
-    saver.restore(sess, "/Users/install/ML_inoue/SamurAI_Coding/traindata/first/learn_log0/2/model.ckpt")
+    saver.restore(sess, "/Users/install/ML_inoue/SamurAI_Coding/traindata/first/learn_log1/1/model.ckpt")
 
     for i in range(len(test_image)):
         pred = np.argmax(logits.eval(feed_dict={

@@ -1,0 +1,21 @@
+[2017/02/08 07:24:34] step 0, training accuracy 0.0182286
+[2017/02/08 07:24:34] step 1, training accuracy 0.0229429
+[2017/02/08 07:24:34] step 2, training accuracy 0.0248
+[2017/02/08 07:24:34] step 3, training accuracy 0.0296857
+[2017/02/08 07:24:34] step 4, training accuracy 0.0324143
+[2017/02/08 07:24:34] step 5, training accuracy 0.0361143
+[2017/02/08 07:24:34] step 6, training accuracy 0.0407857
+[2017/02/08 07:24:34] step 7, training accuracy 0.0453286
+[2017/02/08 07:24:34] step 8, training accuracy 0.0490143
+[2017/02/08 07:24:34] step 9, training accuracy 0.0527857
+[2017/02/08 07:24:34] step 10, training accuracy 0.0598143
+[2017/02/08 07:24:34] step 11, training accuracy 0.0592571
+[2017/02/08 07:24:34] step 12, training accuracy 0.0648429
+[2017/02/08 07:24:34] step 13, training accuracy 0.0675
+[2017/02/08 07:24:34] step 14, training accuracy 0.0726429
+[2017/02/08 07:24:34] step 15, training accuracy 0.0788
+[2017/02/08 07:24:34] step 16, training accuracy 0.0842857
+[2017/02/08 07:24:34] step 17, training accuracy 0.0872286
+[2017/02/08 07:24:34] step 18, training accuracy 0.0900429
+[2017/02/08 07:24:34] step 19, training accuracy 0.0964
+[2017/02/08 07:24:34] test accuracy 0.0961714

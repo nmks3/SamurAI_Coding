@@ -1,6 +1,6 @@
-dir_name=/Users/install/ML_inoue/SamurAI_Coding/traindata
+dir_name=/Users/naohiro/SamurAI_Coding/traindata
 side=first
-arm=2
+arm=0
 
 cd ${dir_name}/${side}/${arm}/
 ls > ../filename_label${arm}.txt

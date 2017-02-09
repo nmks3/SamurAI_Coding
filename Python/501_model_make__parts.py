@@ -17,16 +17,16 @@ IMAGE_PIXELS = IMAGE_SIZE*IMAGE_SIZE*3
 
 flags = tf.app.flags
 FLAGS = flags.FLAGS
-flags.DEFINE_string('train', '/Users/install/ML_inoue/SamurAI_Coding/traindata/first/train0_1.txt', 'File name of train data')
-flags.DEFINE_string('test', '/Users/install/ML_inoue/SamurAI_Coding/traindata/first/test0_1.txt', 'File name of train data')
-flags.DEFINE_string('train_dir', '/Users/install/ML_inoue/SamurAI_Coding/traindata/first/learn_log0/2/', 'Directory to put the training data.')
-flags.DEFINE_integer('max_steps', 50, 'Number of steps to run trainer.')
+flags.DEFINE_string('train', '/Users/install/ML_inoue/SamurAI_Coding/traindata/first/train1_2.txt', 'File name of train data')
+flags.DEFINE_string('test', '/Users/install/ML_inoue/SamurAI_Coding/traindata/first/test1_2.txt', 'File name of train data')
+flags.DEFINE_string('train_dir', '/Users/install/ML_inoue/SamurAI_Coding/traindata/first/learn_log1/1/', 'Directory to put the training data.')
+flags.DEFINE_integer('max_steps', 20, 'Number of steps to run trainer.')
 #flags.DEFINE_integer('batch_size', 10, 'Batch size'
 #                     'Must divide evenly into the dataset sizes.')
-flags.DEFINE_integer('batch_size', 330, 'Batch size'
+flags.DEFINE_integer('batch_size', 100, 'Batch size'
                      'Must divide evenly into the dataset sizes.')
 #flags.DEFINE_float('learning_rate', 1e-4, 'Initial learning rate.')
-flags.DEFINE_float('learning_rate', 0.0001, 'Initial learning rate.')
+flags.DEFINE_float('learning_rate', 0.00001, 'Initial learning rate.')
 
 
 def inference(images_placeholder, keep_prob):
@@ -260,4 +260,4 @@ if __name__ == '__main__':
         keep_prob: 1.0})
 
     # 最終的なモデルを保存
-    save_path = saver.save(sess, "../traindata/first/learn_log0/2/model.ckpt")
+    save_path = saver.save(sess, "../traindata/first/learn_log1/1/model.ckpt")

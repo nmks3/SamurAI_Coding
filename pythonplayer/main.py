@@ -1,16 +1,25 @@
+# -*- coding: utf-8 -*-
 import sys
 import string
+import cv2
+import numpy as np
 
 # import player
 import players.playerlist as player
 
+# 列を設定
+cols = 15
+# 行を設定
+rows = 15
 num_players = 6
+tate = "/Users/g-2017/SamuraiCoding/Python/tate_1.png"
+yoko = "/Users/g-2017/SamuraiCoding/Python/yoko_1.png"
 
 def ReadCommentedIStream(cis):
     l = cis.readline()
     while l.startswith('#'):
         l = cis.readline()
-    return l.split(' ')
+    return string.strip(l).split()
 
 class SamuraiInfo:
     """Samurai Information"""
@@ -44,7 +53,7 @@ class GameInfo:
         self.turn = 0
         self.curePeriod = 0
         self.field = 0
-        print('0')
+        print '0'
 
     def readTurnInfo(self, cis):
         ary = ReadCommentedIStream(cis)
@@ -61,10 +70,55 @@ class GameInfo:
             self.samuraiInfo[i].hidden = True if int(ary[2]) == 1 else False
 
         self.field = [[0 for i in range(self.size[1])] for j in range(self.size[0])]
+        # イメージ生成
+        image = np.zeros((rows, cols, 3), np.uint8)
+        outimg = "../" + str(self.turn) + "out.png"
+        # 画像の初期化
+        image[0:15, 0:15] = [255, 255, 255]
+        
         for y in range(self.size[1]):
             ary = ReadCommentedIStream(cis)
             for x in range(self.size[0]):
-                self.field[x][y] = int(ary[x+1])
+                self.field[x][y] = int(ary[x])
+                if int(ary[x]) == 0:
+                    image[y, x] = [0, 0, 255]
+                elif int(ary[x]) == 1:
+                    image[y, x] = [0, 0, 170]
+                elif int(ary[x]) == 2:
+                    image[y, x] = [0, 0, 85]
+                elif int(ary[x]) == 3:
+                    image[y, x] = [255, 0, 0]
+                elif int(ary[x]) == 4:
+                    image[y, x] = [170, 0, 0]
+                elif int(ary[x]) == 5:
+                    image[y, x] = [85, 0, 0]
+                elif int(ary[x]) == 8:
+                    image[y, x] = [0,0,0]
+
+        #縦連結 15x15 15x15
+        img3 = cv2.vconcat([image, image])
+        #15x30
+        #横連結 15x30 15x30
+        img4 = cv2.hconcat([img3,img3])
+        # 30x30
+        # 横余白画像
+        img5 = cv2.imread(yoko)
+        #縦連結 30x30 30x1
+        img6 = cv2.vconcat([img4,img5])
+        #90x93
+        #縦連結 30x1 30x31
+        img7 = cv2.vconcat([img5,img6])
+        #30x32
+        # 縦余白画像
+        img8 = cv2.imread(tate)
+        #横連結 30x32 1x32
+        img9 = cv2.hconcat([img7,img8])
+        # 31x32
+        #横連結 1x32 31x32
+        img10 = cv2.hconcat([img8,img9])
+        # 32x32
+        # 画像の出力
+        cv2.imwrite(outimg, img10)
 
     def isValid(self, action):
         myself = self.samuraiInfo[self.weapon]
@@ -169,7 +223,7 @@ class GameInfo:
             myself.hidden = False
         myself.cur = cur
         self.samuraiInfo[self.weapon] = myself
-        print(action),
+        print action,
 
 if __name__ == '__main__':
     info = GameInfo(sys.stdin)
@@ -179,16 +233,16 @@ if __name__ == '__main__':
     argc = len(argvs)
 
     if argc < 2:
-        print('Usage: python main.py playername')
+        print 'Usage: python main.py playername'
         exit(0)
 
     while True:
         sys.stdout.flush()
         info.readTurnInfo(sys.stdin)
-        print('# Turn', info.turn)
+        print '# Turn', info.turn
         if info.curePeriod != 0:
-            print(0)
+            print 0
         else:
             player.play(info)
-            print(0)
+            print 0
 

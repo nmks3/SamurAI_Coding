@@ -18,6 +18,7 @@ import cv2
 NUM_CLASSES = 70
 IMAGE_SIZE = 28
 IMAGE_PIXELS = IMAGE_SIZE*IMAGE_SIZE*3
+model_directory = "/Users/g-2017/SamuraiCoding/traindata/first_1/learn_log0/7/model.ckpt"
 
 def inference(images_placeholder, keep_prob):
     """ モデルを作成する関数
@@ -81,6 +82,7 @@ def inference(images_placeholder, keep_prob):
 if __name__ == '__main__':
     test_image = []
     filenames = []
+    label = ["1","1 5","1 6","1 7","1 8","2","2 5","2 6","2 7","2 8","3","3 5","3 6","3 7","3 8","4","4 5","4 6","4 7","4 8","5","5 1","5 2","5 3","5 4","5 5","5 5 5","5 5 6","5 5 7","5 5 8","5 6","5 6 6","5 6 7","5 6 8","5 7","5 7 7","5 7 8","5 8","5 8 8","6","6 1","6 2","6 3","6 4","6 6","6 6 6","6 6 7","6 6 8","6 7","6 7 7","6 7 8","6 8","6 8 8","7","7 1","7 2","7 3","7 4","7 7","7 7 7","7 7 8","7 8","7 8 8","8","8 1","8 2","8 3","8 4","8 8","8 8 8"]
     for i in range(1, len(sys.argv)):
         img = cv2.imread(sys.argv[i])
         img = cv2.resize(img, (28, 28))
@@ -97,7 +99,7 @@ if __name__ == '__main__':
 
     saver = tf.train.Saver()
     sess.run(tf.global_variables_initializer())
-    saver.restore(sess, "/Users/install/ML_inoue/SamurAI_Coding/traindata/first/learn_log1/1/model.ckpt")
+    saver.restore(sess, model_directory)
 
     for i in range(len(test_image)):
         pred = np.argmax(logits.eval(feed_dict={
@@ -106,5 +108,4 @@ if __name__ == '__main__':
         pred2 = logits.eval(feed_dict={
             images_placeholder: [test_image[i]],
             keep_prob: 1.0 })[0]
-        print filenames[i],pred,"{0:10.8f}".format(pred2[0]),"{0:10.8f}".format(pred2[1])
-        print(pred2)
+        print "file :",filenames[i],"label :",label[pred],"pct :","{0:10.8f}".format(pred2[pred])

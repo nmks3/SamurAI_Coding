@@ -17,44 +17,27 @@ img2 = cv2.imread(img_name)
 img3 = cv2.vconcat([img1, img2])
 #15x30
 cv2.imwrite(img_name, img3)
-#縦連結 15x15 15x30
-img4 = cv2.vconcat([img1, img3])
-#15X45
-cv2.imwrite(img_name, img4)
-#縦連結 15x45 15x45
-img5 = cv2.vconcat([img4,img4])
-#15x90
-cv2.imwrite(img_name, img5)
-#横連結 15x90 15x90
-img6 = cv2.hconcat([img5,img5])
-# 30x90
+#横連結
+img4 = cv2.hconcat([img3, img3])
+#30x30
+cv2.imwrite(img_name, img3)
+#横余白画像
+img5 = cv2.imread(yoko)
+#縦連結 30x30 30x1
+img6 = cv2.vconcat([img4, img5])
+#30x31
 cv2.imwrite(img_name, img6)
-#横連結 15x90 30x90
-img7 = cv2.hconcat([img5,img6])
-# 45x90
+#縦連結 30x31 30x1
+img7 = cv2.vconcat([img5, img6])
+#30x32
 cv2.imwrite(img_name, img7)
-#横連結 15x90 30x90
-img8 = cv2.hconcat([img7,img7])
-# 90x90
-cv2.imwrite(img_name, img8)
-# 横余白画像
-img9 = cv2.imread(yoko)
-#縦連結 90x90 90x3
-img10 = cv2.vconcat([img8,img9])
-#90x93
+#縦余白画像
+img8 = cv2.imread(tate)
+#横連結 30x32 1x32
+img9 = cv2.hconcat([img7, img8])
+#31x32
+cv2.imwrite(img_name, img9)
+#横連結 1x32 31x32
+img10 = cv2.hconcat([img8, img9])
+#31x32
 cv2.imwrite(img_name, img10)
-#縦連結 90x3 90x93
-img11 = cv2.vconcat([img9,img10])
-#90x96
-cv2.imwrite(img_name, img11)
-# 縦余白画像
-img12 = cv2.imread(tate)
-#横連結 90x96 3x96
-img13 = cv2.hconcat([img11,img12])
-# 93x96
-cv2.imwrite(img_name, img13)
-#横連結 3x96 93x96
-img14 = cv2.hconcat([img12,img13])
-# 96x96
-cv2.imwrite(img_name, img14)
-

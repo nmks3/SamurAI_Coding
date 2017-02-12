@@ -1,3 +1,4 @@
+step=50,batch_size=100
 [2017/02/09 01:42:40] step 0, training accuracy 0.0180143
 [2017/02/09 01:42:40] step 1, training accuracy 0.0207286
 [2017/02/09 01:42:40] step 2, training accuracy 0.0266571

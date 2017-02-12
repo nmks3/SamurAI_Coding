@@ -4,7 +4,7 @@ import string
 import cv2
 import numpy as np
 import tensorflow as tf
-
+import subprocess
 # import player
 import players.playerlist as player
 
@@ -20,9 +20,14 @@ NUM_CLASSES = 70
 IMAGE_SIZE = 28
 # pixel計算
 IMAGE_PIXELS = IMAGE_SIZE*IMAGE_SIZE*3
+images_placeholder = tf.placeholder("float", shape=(None, IMAGE_PIXELS))
+labels_placeholder = tf.placeholder("float", shape=(None, NUM_CLASSES))
+keep_prob = tf.placeholder("float")
 # 余白画像
 tate = "./tate_1.png"
 yoko = "./yoko_1.png"
+# ラベル
+label = ["1","1 5","1 6","1 7","1 8","2","2 5","2 6","2 7","2 8","3","3 5","3 6","3 7","3 8","4","4 5","4 6","4 7","4 8","5","5 1","5 2","5 3","5 4","5 5","5 5 5","5 5 6","5","5 5 8","5 6","5 6 6","6","5","5 7","7","8","5 8","5 8 8","6","6 1","6 2","6 3","6 4","6 6","6 6 6","6 6 7","6","6 7","6 7 7","7","6 8","8","7","7 1","7 2","7 3","7 4","7 7","7 7 7","7 7 8","7 8","7 8 8","8","8 1","8 2","8 3","8 4","8 8","8 8 8"]
 
 def ReadCommentedIStream(cis):
     l = cis.readline()
@@ -102,7 +107,7 @@ class GameInfo:
     """Game Information"""
     def __init__(self, cis):
         ary = ReadCommentedIStream(cis)
-
+        self.logits = inference(images_placeholder, keep_prob)
         self.turns = int(ary[0])
         self.side = int(ary[1])
         self.weapon = int(ary[2])
@@ -186,8 +191,8 @@ class GameInfo:
         img10 = cv2.hconcat([img8,img9])
         # 32x32
         # 画像の出力
-        img = cv2.resize(img10, (28, 28))
-        cv2.imwrite(outimg, img)
+        self.img = cv2.resize(img10, (28, 28))
+        #cv2.imwrite(outimg, self.img)
 
     def isValid(self, action):
         myself = self.samuraiInfo[self.weapon]
@@ -294,10 +299,18 @@ class GameInfo:
         self.samuraiInfo[self.weapon] = myself
         print action,
 
+    def selectAction(self):
+        test_image = self.img.flatten().astype(np.float32)/255.0
+        sess = tf.InteractiveSession()
+        saver = tf.train.Saver()
+        sess.run(tf.global_variables_initializer())
+        saver.restore(sess, "/Users/g-2017/SamuraiCoding/traindata/first_1/learn_log0/8/model.ckpt")
+        pred = np.argmax(self.logits.eval(feed_dict={images_placeholder: [test_image],keep_prob: 1.0 })[0])
+        return label[pred]
+
 if __name__ == '__main__':
     info = GameInfo(sys.stdin)
     player = player.player('random')
-
     argvs = sys.argv
     argc = len(argvs)
 

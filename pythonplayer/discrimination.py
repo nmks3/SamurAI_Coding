@@ -1,0 +1,95 @@
+#!/usr/bin/env python
+#! -*- coding: utf-8 -*-
+
+
+#複数のファイルを指定すれば片っ端から判別してくれる。
+#  ./502_hanbetu__parts.py aaa.jpg bbb.jpg ...
+#
+#以下参照
+#  http://kivantium.hateblo.jp/entry/2015/11/18/233834
+
+
+import sys
+import numpy as np
+import tensorflow as tf
+import cv2
+
+
+NUM_CLASSES = 70
+IMAGE_SIZE = 28
+IMAGE_PIXELS = IMAGE_SIZE*IMAGE_SIZE*3
+
+def inference(images_placeholder, keep_prob):
+    """ モデルを作成する関数
+
+    引数:
+      images_placeholder: inputs()で作成した画像のplaceholder
+      keep_prob: dropout率のplace_holder
+
+    返り値:
+      cross_entropy: モデルの計算結果
+    """
+    def weight_variable(shape):
+      initial = tf.truncated_normal(shape, stddev=0.1)
+      return tf.Variable(initial)
+
+    def bias_variable(shape):
+      initial = tf.constant(0.1, shape=shape)
+      return tf.Variable(initial)
+
+    def conv2d(x, W):
+      return tf.nn.conv2d(x, W, strides=[1, 1, 1, 1], padding='SAME')
+
+    def max_pool_2x2(x):
+      return tf.nn.max_pool(x, ksize=[1, 2, 2, 1],
+                            strides=[1, 2, 2, 1], padding='SAME')
+
+    x_image = tf.reshape(images_placeholder, [-1, 28, 28, 3])
+
+    with tf.name_scope('conv1') as scope:
+        W_conv1 = weight_variable([5, 5, 3, 32])
+        b_conv1 = bias_variable([32])
+        h_conv1 = tf.nn.relu(conv2d(x_image, W_conv1) + b_conv1)
+
+    with tf.name_scope('pool1') as scope:
+        h_pool1 = max_pool_2x2(h_conv1)
+
+    with tf.name_scope('conv2') as scope:
+        W_conv2 = weight_variable([5, 5, 32, 64])
+        b_conv2 = bias_variable([64])
+        h_conv2 = tf.nn.relu(conv2d(h_pool1, W_conv2) + b_conv2)
+
+    with tf.name_scope('pool2') as scope:
+        h_pool2 = max_pool_2x2(h_conv2)
+
+    with tf.name_scope('fc1') as scope:
+        W_fc1 = weight_variable([7*7*64, 1024])
+        b_fc1 = bias_variable([1024])
+        h_pool2_flat = tf.reshape(h_pool2, [-1, 7*7*64])
+        h_fc1 = tf.nn.relu(tf.matmul(h_pool2_flat, W_fc1) + b_fc1)
+        h_fc1_drop = tf.nn.dropout(h_fc1, keep_prob)
+
+    with tf.name_scope('fc2') as scope:
+        W_fc2 = weight_variable([1024, NUM_CLASSES])
+        b_fc2 = bias_variable([NUM_CLASSES])
+
+    with tf.name_scope('softmax') as scope:
+        y_conv=tf.nn.softmax(tf.matmul(h_fc1_drop, W_fc2) + b_fc2)
+
+    return y_conv
+
+if __name__ == '__main__':
+    label = ["1","1 5","1 6","1 7","1 8","2","2 5","2 6","2 7","2 8","3","3 5","3 6","3 7","3 8","4","4 5","4 6","4 7","4 8","5","5 1","5 2","5 3","5 4","5 5","5 5 5","5 5 6","5 5 7","5 5 8","5 6","5 6 6","5 6 7","5 6 8","5 7","5 7 7","5 7 8","5 8","5 8 8","6","6 1","6 2","6 3","6 4","6 6","6 6 6","6 6 7","6 6 8","6 7","6 7 7","6 7 8","6 8","6 8 8","7","7 1","7 2","7 3","7 4","7 7","7 7 7","7 7 8","7 8","7 8 8","8","8 1","8 2","8 3","8 4","8 8","8 8 8"]
+    img = sys.argv[1]
+    test_image = img.flatten().astype(np.float32)/255.0
+    test_image = np.asarray(test_image)
+    images_placeholder = tf.placeholder("float", shape=(None, IMAGE_PIXELS))
+    labels_placeholder = tf.placeholder("float", shape=(None, NUM_CLASSES))
+    keep_prob = tf.placeholder("float")
+    logits = inference(images_placeholder, keep_prob)
+    sess = tf.InteractiveSession()
+    saver = tf.train.Saver()
+    sess.run(tf.global_variables_initializer())
+    saver.restore(sess, "/Users/g-2017/SamuraiCoding/traindata/first_1/learn_log0/7/model.ckpt")
+    pred = np.argmax(logits.eval(feed_dict={images_placeholder: [test_image],keep_prob: 1.0 })[0])
+    print label[pred]

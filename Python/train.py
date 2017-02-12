@@ -18,18 +18,21 @@ import cv2
 NUM_CLASSES = 70
 IMAGE_SIZE = 28
 IMAGE_PIXELS = IMAGE_SIZE*IMAGE_SIZE*3
+datadir = '/Users/naohiro/SamurAI_Coding/traindata/'
+side = 'first'
+playerNum = 0
+logNum = 7
+stepNum = 50
+batch_sizeNum = 20
 
 flags = tf.app.flags
 FLAGS = flags.FLAGS
-flags.DEFINE_string('train', '/Users/naohiro/SamurAI_Coding/traindata/first/train0_2.txt', 'File name of train data')
-flags.DEFINE_string('test', '/Users/naohiro/SamurAI_Coding/traindata/first/test0_2.txt', 'File name of train data')
-flags.DEFINE_string('train_dir', '/Users/naohiro/SamurAI_Coding/traindata/first/learn_log0/7/', 'Directory to put the training data.')
-flags.DEFINE_integer('max_steps', 50, 'Number of steps to run trainer.')
-#flags.DEFINE_integer('batch_size', 10, 'Batch size'
-#                     'Must divide evenly into the dataset sizes.')
-flags.DEFINE_integer('batch_size', 100, 'Batch size'
+flags.DEFINE_string('train', datadir + side + '/traintxt/train' + playerNum + '_2.txt', 'File name of train data')
+flags.DEFINE_string('test', datadir + side + '/testtxt/test' + playerNum + '_2.txt', 'File name of train data')
+flags.DEFINE_string('train_dir', datadir + side + '/learn_log' + playerNum + '/' + logNum + '/', 'Directory to put the training data.')
+flags.DEFINE_integer('max_steps', stepNum, 'Number of steps to run trainer.')
+flags.DEFINE_integer('batch_size', batch_sizeNum, 'Batch size'
                      'Must divide evenly into the dataset sizes.')
-#flags.DEFINE_float('learning_rate', 1e-4, 'Initial learning rate.')
 flags.DEFINE_float('learning_rate', 0.00001, 'Initial learning rate.')
 
 def inference(images_placeholder, keep_prob):
@@ -240,4 +243,4 @@ if __name__ == '__main__':
         labels_placeholder: test_label,
         keep_prob: 1.0})
     # 最終的なモデルを保存
-    save_path = saver.save(sess, "../traindata/first/learn_log0/7/model.ckpt")
+    save_path = saver.save(sess, datadir + side + "/learn_log" + playerNum + "/" + logNum + "/model.ckpt")

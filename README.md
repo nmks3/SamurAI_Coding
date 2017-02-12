@@ -1,5 +1,11 @@
 # SamurAI_Coding
 
-.kerasのtfをthに変更
-0.zip : 先手プレイヤー0の32*32の画像、未処理（約15万枚）
-0_1.zip : 先手プレイヤー0の32*32の画像（70クラス、各1000枚、計7万枚）
+arukuka_mztmr_nggts : 昨年上位者プログラム  
+piyo : 昨年上位者プログラム  
+sinryakudegeso : 昨年上位者プログラム  
+manager : ゲーム実行、各種プログラムの実行ファイル  
+Python : python言語によるソースコード
+pythonplayer : 2015-16大会用のプログラム
+traindata : 学習に必要なデータ
+
+

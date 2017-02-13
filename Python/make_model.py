@@ -167,8 +167,6 @@ if __name__ == '__main__':
         l = line.split()
         # データを読み込んで28x28に縮小
 
-        print "1 line[%s] %s %s"%(line,l[0],l[1])
-
         img = cv2.imread(l[0])
         img = cv2.resize(img, (28, 28))
         # 一列にした後、0-1のfloat値にする
@@ -190,8 +188,6 @@ if __name__ == '__main__':
         l = line.split()
         img = cv2.imread(l[0])
         img = cv2.resize(img, (28, 28))
-
-        print "2 line[%s] %s %s"%(line,l[0],l[1])
 
         test_image.append(img.flatten().astype(np.float32)/255.0)
         tmp = np.zeros(NUM_CLASSES)

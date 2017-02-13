@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/naohiro/SamurAI_Coding/traindata/first/learn_log0/9/model.ckpt"
+all_model_checkpoint_paths: "/Users/naohiro/SamurAI_Coding/traindata/first/learn_log0/9/model.ckpt"

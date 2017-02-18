@@ -1,3 +1,5 @@
+class:60,batch:20,step:50
+
 [2017/02/13 00:28:49] loading train data...doneloading test data...donestart make model...
 [2017/02/13 21:23:07] start training...step 0, training accuracy 0.0228333
 [2017/02/13 21:23:07] step 1, training accuracy 0.0265333

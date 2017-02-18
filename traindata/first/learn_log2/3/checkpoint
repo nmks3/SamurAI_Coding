@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/install/ML_inoue/SamurAI_Coding/traindata/first/learn_log2/3/model.ckpt"
+all_model_checkpoint_paths: "/Users/install/ML_inoue/SamurAI_Coding/traindata/first/learn_log2/3/model.ckpt"

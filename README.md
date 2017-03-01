@@ -15,13 +15,13 @@ pythonplayer : 2015-16大会用のプログラム
 traindata : 学習に必要なデータ  
 
 ## 実行手順
-### 環境構築
-#### Homebrew
+### 1.環境構築
+#### 1-1.Homebrew
 pyenvを用いるのでまずはHomebrewをインストールします。
 [Homebrew](https://brew.sh/index_ja.html)にあるインストール手順に従い、コマンドをコピーし、実行します。    
 `$ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"` (※2017/3/1現在)  
 
-#### pyenv
+#### 1-2.pyenv
 続いて、pyenvをインストールします。インストール前にhomebrewの環境を最新のものにしておきます。  
 `$ brew update && brew upgrade`  
 pyenvインストール  

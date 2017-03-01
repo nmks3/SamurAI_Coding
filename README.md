@@ -17,9 +17,13 @@ traindata : 学習に必要なデータ
 ## 実行手順
 ### 環境構築
 pyenvを用いるのでまずはHomebrewをインストールします。
-[Homebrew](https://brew.sh/index_ja.html)にあるインストール手順に従い、コマンドをコピーし、実行します。
-`$ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"` (※2017/3/1現在)
+[Homebrew](https://brew.sh/index_ja.html)にあるインストール手順に従い、コマンドをコピーし、実行します。  
+`$ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"` (※2017/3/1現在)  
 
+続いて、pyenvをインストールします。インストール前にhomebrewの環境を最新のものにしておきます。  
+`$ brew update && brew upgrade`  
+
+`$ brew install pyenv`
 
 ### 教師データ収集
 まず、学習に必要な教師データを収集します。教師データは「SamurAI Coding 2015-16」の上位入賞者同士を対戦させたログデータです。  

@@ -16,4 +16,4 @@ traindata : 学習に必要なデータ
 ## 実行手順
 ### 教師データ収集
 まず、学習に必要な教師データを収集します。教師データは「SamurAI Coding 2015-16」の上位入賞者同士を対戦させたログデータです。  
-[google]: http://google.com/
+[google](http://google.com/)
